@@ -1,0 +1,1107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Standard 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-19 18:28-0500\n"
+"PO-Revision-Date: 2012-12-09 15:44-0500\n"
+"Last-Translator: Chris Ames <chris@8bit.io>\n"
+"Language-Team: 8BIT <info@8bit.io>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: Romanian\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid "404"
+msgstr "404"
+
+#: ../404.php:20
+msgid "Whoa... you broke the Internet!"
+msgstr "Uaau… ai stricat internetul! Pagina nu a fost găsită"
+
+#: ../404.php:21
+msgid "The specified address does not contain a page or blog post at this time"
+msgstr "Adresa specificată nu conține o pagină sau un post pe blog in acest moment."
+
+#: ../404.php:21
+msgid "Click here to return home."
+msgstr "Click aici pentru a reveni pe pagina principala."
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Acest articol este protejat cu parolă. Introdu parola pentru a vedea comentariile."
+
+#: ../comments.php:26
+msgid "No responses"
+msgstr "Nu există răspunsuri"
+
+#: ../comments.php:26
+msgid "One response"
+msgstr "Un raspuns"
+
+#: ../comments.php:26
+msgid "% responses"
+msgstr "% raspunsuri"
+
+#: ../comments.php:26
+msgid "to"
+msgstr "pentru"
+
+#: ../comments.php:32
+msgid "Previous Comments"
+msgstr "Comentariile Precedente"
+
+#: ../comments.php:35
+msgid "Next Comments"
+msgstr "Urmatoarele Comentarii"
+
+#: ../comments.php:44
+msgid "Trackbacks and Pingbacks:"
+msgstr "Pingback-uri și Trackback-uri"
+
+#: ../comments.php:56
+msgid "No Comments"
+msgstr "Niciun comentariu"
+
+#: ../comments.php:57
+msgid "Be the first to start the conversation."
+msgstr "Fii primul care începe conversația."
+
+#: ../footer.php:61
+#, php-format
+msgid "&copy; %1$s %2$s &mdash; %3$s &mdash; %4$s by %5$s"
+msgstr "&copy; %1$s %2$s &mdash; %3$s &mdash; %4$s by %5$s"
+
+#: ../footer.php:63
+#, php-format
+msgid "&copy; %1$s %2$s &mdash; %3$s by %4$s"
+msgstr "&copy; %1$s %2$s &mdash; %3$s by %4$s"
+
+#: ../functions.php:51
+msgid "Standard Options"
+msgstr "Standard Optiuni"
+
+#: ../functions.php:52
+#: ../functions.php:1284
+#: ../functions.php:1752
+msgid "Standard"
+msgstr "Standard"
+
+#: ../functions.php:62
+#: ../functions.php:63
+#: ../functions.php:1303
+#: ../functions.php:1761
+msgid "Global"
+msgstr "Global"
+
+#: ../functions.php:71
+#: ../functions.php:72
+#: ../functions.php:1304
+#: ../functions.php:1361
+#: ../functions.php:1771
+msgid "Presentation"
+msgstr "Prezentare"
+
+#: ../functions.php:80
+#: ../functions.php:81
+#: ../functions.php:1305
+#: ../functions.php:1781
+msgid "Social"
+msgstr "Social"
+
+#: ../functions.php:89
+#: ../functions.php:90
+#: ../functions.php:1306
+#: ../functions.php:1481
+#: ../functions.php:1791
+msgid "Publishing"
+msgstr "Publicare"
+
+#: ../functions.php:141
+msgid "Layout and Design"
+msgstr "Aspect și Design"
+
+#: ../functions.php:148
+#: ../functions.php:1402
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions.php:156
+msgid "Site Icon"
+msgstr "Pictograma Site-ului"
+
+#: ../functions.php:164
+#: ../functions.php:1377
+msgid "Contrast"
+msgstr "Contrast"
+
+#: ../functions.php:172
+#: ../functions.php:1425
+msgid "Left Sidebar"
+msgstr "Bară laterală stânga"
+
+#: ../functions.php:183
+#: ../functions.php:1426
+msgid "Right Sidebar"
+msgstr "Bară laterală dreapta"
+
+#: ../functions.php:194
+msgid "No Sidebar / Full Width"
+msgstr "Fără Bară laterală / Lat cât ecranul"
+
+#: ../functions.php:206
+msgid "Content"
+msgstr "Conținut"
+
+#: ../functions.php:213
+#: ../functions.php:1443
+msgid "Display Breadcrumbs"
+msgstr "Arată  Breadcrumbs"
+
+#: ../functions.php:221
+#: ../functions.php:1465
+msgid "Display Featured Images"
+msgstr "Afișaza Imaginile reprezentative"
+
+#: ../functions.php:246
+msgid "This section controls positioning and style elements."
+msgstr "Această secțiune controlează poziționarea și elementele de stil."
+
+#: ../functions.php:253
+msgid "This section controls when content elements are displayed."
+msgstr "Această secțiune controlează cand elementele de continut sunt arătate."
+
+#: ../functions.php:272
+#: ../functions.php:319
+msgid "Upload"
+msgstr "Încarcă de pe calculator"
+
+#: ../functions.php:275
+#: ../functions.php:322
+#: ../functions.php:1120
+#: ../functions.php:1154
+#: ../lib/standard-ad-125x125/views/admin.php:11
+#: ../lib/standard-ad-125x125/views/admin.php:19
+msgid "Delete"
+msgstr "Elimină"
+
+#: ../functions.php:278
+msgid "Dimensions: 144px x 144px. Used for favicon and mobile devices."
+msgstr "Dimensiuni: 144px x 144px. Utilizate pentru favicon și dispozitive mobile."
+
+#: ../functions.php:278
+#: ../functions.php:1109
+#: ../functions.php:1143
+#: ../functions.php:1840
+#: ../functions.php:1845
+#: ../functions.php:1850
+msgid "Learn more"
+msgstr "Află mai multe"
+
+#: ../functions.php:292
+#: ../functions.php:1382
+msgid "Light"
+msgstr "Culori deschise"
+
+#: ../functions.php:293
+#: ../functions.php:1383
+msgid "Dark"
+msgstr "Întunecat"
+
+#: ../functions.php:296
+msgid "Can be used with <a href=\"themes.php?page=custom-background\">custom backgrounds</a>."
+msgstr "Poate fi utilizat cu  <a href=\"themes.php?page=custom-background\">fundaluri personalizate</a>."
+
+#: ../functions.php:325
+msgid "Use an image in place of the <a href=\"themes.php?page=custom-header\">Site Title and Tagline</a>. <a href=\"themes.php?page=custom-header\">Custom Headers</a> are also available."
+msgstr "Utilizați o imagine în loc de <a href=\"themes.php?page=custom-header\">Titlul site-ului și Tagline</a>. <a href=\"themes.php?page=custom-header\">Anteturile personalizate</a>sunt, de asemenea disponibile."
+
+#: ../functions.php:394
+#: ../functions.php:414
+#: ../functions.php:1086
+#: ../functions.php:1448
+#: ../functions.php:1470
+#: ../functions.php:1502
+msgid "Always"
+msgstr "Intotdeauna"
+
+#: ../functions.php:395
+#: ../functions.php:415
+#: ../functions.php:1087
+#: ../functions.php:1449
+#: ../functions.php:1471
+#: ../functions.php:1503
+msgid "Never"
+msgstr "Niciodată"
+
+#: ../functions.php:398
+msgid "SEO experts encourage breadcrumb use. <a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\">Learn more</a>."
+msgstr "Experții SEO incurajaza utilizarea breadcrumb-ului.<a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\">Află mai multe</a>."
+
+#: ../functions.php:416
+#: ../functions.php:1472
+msgid "On index only"
+msgstr "Doar pe pagina principală"
+
+#: ../functions.php:417
+#: ../functions.php:1473
+msgid "On single posts only"
+msgstr "Doar pe pagina cu un singur post"
+
+#: ../functions.php:492
+msgid "Available Icons"
+msgstr "Pictograme Disponibile"
+
+#: ../functions.php:500
+#: ../functions.php:526
+msgid "Active Icons"
+msgstr "Pictograme Active"
+
+#: ../functions.php:520
+msgid "This section controls social network icons in the site header. Drag, drop, and position desired icons from the Icon Library to the Active Icons area. This section controls social network icons in the site header. Drag, drop, and position desired icons from the Icon Library to the Active Icons area. You can also delete all icons and <a href=\"javascript:;\" id=\"reset-social-icons\" class=\"ad_delete\">restore defaults.</a>"
+msgstr " Această secțiune controlează pictogramele sociale de rețea în antetul site-ului. Muta pictograma in  poziția dorită din biblioteca de pictograme în zona de Pictograme Active.Această secțiune controlează pictogramele sociale de rețea în antetul site-ului. Muta pictograma in  poziția dorită din biblioteca de pictograme în zona de Pictograme Active. Puteți șterge, de asemenea, toate pictogramele și sa faceți <a href=\"javascript:;\" id=\"reset-social-icons\" class=\"ad_delete\"> rest la setarile implicite </ A>"
+
+#: ../functions.php:529
+msgid "Click an icon to set the full URL."
+msgstr "Faceți clic pe o pictogramă pentru a-i seta adresa URL completă."
+
+#: ../functions.php:532
+msgid "Icon URL:"
+msgstr "URL Pictogramă "
+
+#: ../functions.php:535
+msgid "Learn More"
+msgstr "Află mai multe"
+
+#: ../functions.php:538
+msgid "Done"
+msgstr "Terminat"
+
+#: ../functions.php:540
+msgid "Cancel"
+msgstr "Anulează"
+
+#: ../functions.php:543
+msgid "Standard looks best with seven icons or fewer."
+msgstr "Standard arata cel mai bine cu șapte sau mai puține pictograme."
+
+#: ../functions.php:549
+msgid "Icon Library"
+msgstr "Librăria de Pictograme"
+
+#: ../functions.php:552
+msgid "Use native social icons or upload your own."
+msgstr "Utilizați iconițele sociale native sau încărcați propriile dvs iconițe"
+
+#: ../functions.php:554
+msgid "Drag social icons here to remove them from your library."
+msgstr "Trageți iconițele sociale aici pentru a le elimina din lista dvs."
+
+#: ../functions.php:556
+msgid "Upload New Icon"
+msgstr "Încărcați iconiță nouă"
+
+#: ../functions.php:624
+msgid "You cannot delete the default set of Standard social icons. <a href=\"javascript:;\" id=\"standard-hide-delete-social-icon-message\">Hide this message.</a>"
+msgstr "Nu puteți șterge setul implicit de iconițe Standard."
+
+#: ../functions.php:743
+msgid "Our site is currently offline."
+msgstr "Site-ul nostru este deconectat momentan."
+
+#: ../functions.php:771
+msgid "FeedBurner URL"
+msgstr "FeedBurner URL"
+
+#: ../functions.php:779
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../functions.php:787
+msgid "Affiliate Code"
+msgstr "Cod Afiliere"
+
+#: ../functions.php:795
+msgid "Site Mode"
+msgstr "Modul Site-ului"
+
+#: ../functions.php:803
+msgid "Offline Message"
+msgstr "Mesaj Offline"
+
+#: ../functions.php:823
+msgid "Site Configuration "
+msgstr "Configurare Site"
+
+#: ../functions.php:824
+msgid "This section controls site wide features."
+msgstr "Această secțiune controlează caracteristicile site-ului."
+
+#: ../functions.php:846
+msgid "Use in place of the native RSS feed."
+msgstr "Utilizați în locul RSS-ului nativ."
+
+#: ../functions.php:870
+msgid "Enter the ID only."
+msgstr "Introduceți doar ID-ul."
+
+#: ../functions.php:891
+msgid "Earn money by recommending Standard to your site visitors. <a href=\"http://docs.8bit.io/standard/affiliates\" target=\"_blank\">Learn more</a>."
+msgstr "Câștigați bani prin recomandarea temei Standard pentru vizitatorii site-ului dvs. <a href=\"http://docs.8bit.io/standard/affiliates\" target=\"_blank\">Aflați mai multe</a>. "
+
+#: ../functions.php:910
+msgid "Online"
+msgstr "Online"
+
+#: ../functions.php:911
+msgid "Offline"
+msgstr "Offline"
+
+#: ../functions.php:917
+msgid "WARNING: Taking site offline will hide all content from site visitors and search engines."
+msgstr "ATENTIE: Punand site-ul in modul offline ascundeți tot conținutul pentru vizitatori și motoarele de căutare."
+
+#: ../functions.php:1005
+#: ../single.php:44
+#: ../template-sitemap.php:72
+msgid "Posts"
+msgstr "Articole"
+
+#: ../functions.php:1012
+#: ../functions.php:1497
+msgid "Display Author Box"
+msgstr "Arată Detaliile Autorului"
+
+#: ../functions.php:1021
+#: ../template-sitemap.php:60
+msgid "Pages"
+msgstr "Pagini"
+
+#: ../functions.php:1028
+#: ../functions.php:1102
+#: ../functions.php:1171
+msgid "Privacy Policy"
+msgstr "Politica de confidențialitate"
+
+#: ../functions.php:1036
+#: ../functions.php:1136
+#: ../functions.php:1213
+msgid "Comment Policy"
+msgstr "Politica pentru comentarii"
+
+#: ../functions.php:1061
+msgid "This section controls publisher-centric features available on individual posts."
+msgstr "Această secțiune controlează caracteristicile publisher-centrice disponibile pentru fiecare postare in parte."
+
+#: ../functions.php:1068
+msgid "This section controls publisher-centric features available for pages."
+msgstr "Această secțiune controlează caracteristicile  publisher-centrice disponibile pentru pagini."
+
+#: ../functions.php:1090
+msgid "Display name, website, social networks, and bio from the <a href='profile.php'>author's profile</a> after post content."
+msgstr "Arată numele, site-ul web, rețele sociale, precum și bio din <a href='profile.php'>profilul autorului </a> după conținut."
+
+#: ../functions.php:1106
+#: ../functions.php:1140
+msgid "Generate"
+msgstr "Generat"
+
+#: ../functions.php:1109
+#: ../functions.php:1143
+msgid "<a href=\"http://docs.8bit.io/standard/admin-panel/publishing/\" target=\"_blank\">"
+msgstr "<a href=\"http://docs.8bit.io/standard/admin-panel/publishing/\" target=\"_blank\">"
+
+#: ../functions.php:1122
+#: ../functions.php:1156
+msgid "Warning, customizations will be lost. You can view or edit your policy "
+msgstr "Atenție, personalizările vor fi pierdute. Puteți vizualiza sau edita politica dvs"
+
+#: ../functions.php:1122
+#: ../functions.php:1156
+msgid "here"
+msgstr "aici"
+
+#: ../functions.php:1284
+msgid "for publishers"
+msgstr "pentru editori"
+
+#: ../functions.php:1287
+msgid "Standard is a sleek, exacting product designed for uncluttered and sophisticated presentation of your content on desktop and mobile devices."
+msgstr "Standard este un produs elegant, exigent conceput pentru prezentarea ordonata și mai sofisticata de conținut pe dispozitivele desktop și mobile."
+
+#: ../functions.php:1293
+msgid "Documentation"
+msgstr "Documentație"
+
+#: ../functions.php:1294
+msgid "Support"
+msgstr "Asistență"
+
+#: ../functions.php:1295
+msgid "Blog"
+msgstr "Blog"
+
+#: ../functions.php:1420
+msgid "Layout"
+msgstr "Dispunere pagină"
+
+#: ../functions.php:1427
+msgid "No Sidebar / Full-Width"
+msgstr "Nicio bară laterală / Lat cât ecranul"
+
+#: ../functions.php:1587
+msgid "Standard Layout"
+msgstr "Dispunere Standard"
+
+#: ../functions.php:1613
+msgid "Hide sidebar and display post at full width."
+msgstr "Ascunde bara laterală si arata postul lat cât ecranul."
+
+#: ../functions.php:1672
+msgid "Link URL"
+msgstr "Legătură URL"
+
+#: ../functions.php:1813
+msgid "The site is currently offline. To bring it back online, click here."
+msgstr "Site-ul este momentan offline. Pentru a-l pune înapoi online, click aici"
+
+#: ../functions.php:1840
+msgid "Standard has detected the activation of WordPress SEO and is now running in SEO compatibility mode. <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+msgstr "Standard a detectat activarea WordPress SEO si acum rulează  în mod compatibil. <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+
+#: ../functions.php:1845
+msgid "Standard has detected the activation of All-In-One SEO and is now running in SEO compatibility mode.  <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+msgstr "Standard a detectat activarea plugin-ului All-In-One SEO si acum rulează  în mod compatibil.  <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+
+#: ../functions.php:1850
+msgid "Standard has detected the activation of Platinum SEO and is now running in SEO compatibility mode.  <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+msgstr "Standard a detectat activarea plugin-ului Platinum SEO  si acum rulează  în mod compatibil.  <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+
+#: ../functions.php:1952
+msgid "Header Menu (Upper)"
+msgstr "Meniul Antet (Cel de sus)"
+
+#: ../functions.php:1953
+msgid "Header Menu (Lower)"
+msgstr "Meniul Antet (Cel de jos)"
+
+#: ../functions.php:1954
+msgid "Footer Menu"
+msgstr "Meniul Subsol"
+
+#: ../functions.php:1971
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: ../functions.php:1973
+msgid "The primary sidebar."
+msgstr "Bară laterală principală."
+
+#: ../functions.php:1984
+msgid "Header"
+msgstr "Antet"
+
+#: ../functions.php:1986
+msgid "This area is designed for a 468x60 advertisement, but other widgets can be used here as well."
+msgstr "Această zonă este concepută pentru un anunț de 468x60, dar pot fi folosite si alte widget-uri aici."
+
+#: ../functions.php:1997
+msgid "Below Single Post"
+msgstr "Sub Articol"
+
+#: ../functions.php:1999
+msgid "Shown after post content and before comments. Ideal for the 468x60 ad widget."
+msgstr "Afisat după conținut după și înainte de comentarii. Ideal pentru widget-ul de anunțuri 468x60."
+
+#: ../functions.php:2010
+msgid "Footer Left"
+msgstr "Subsol Stanga"
+
+#: ../functions.php:2012
+msgid "Shown in the first column of the footer."
+msgstr "Afisat în prima coloană din subsol."
+
+#: ../functions.php:2023
+msgid "Footer Center"
+msgstr "Subsol Centru"
+
+#: ../functions.php:2025
+msgid "Shown in the second column of the footer."
+msgstr "Afisat în a doua coloană din subsol."
+
+#: ../functions.php:2036
+msgid "Footer Right"
+msgstr "Subsol Dreapta"
+
+#: ../functions.php:2038
+msgid "Shown in the third column of the footer."
+msgstr "Afisat în a trei-a coloană din subsol."
+
+#: ../functions.php:2380
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s la %2$s"
+
+#: ../functions.php:2381
+msgid "Edit"
+msgstr "Editează"
+
+#: ../functions.php:2387
+msgid "Your comment will appear after being approved."
+msgstr "Comentariul tău v-a aparea doar dupa ce v-a fi aprobat."
+
+#: ../functions.php:2403
+msgid "Reply"
+msgstr "Răspunde"
+
+#: ../functions.php:2701
+msgid "<span class=\"standard-user-profile\" id=\"standard-user-profile-twitter\">Twitter URL</span>"
+msgstr "<span class=\"standard-user-profile\" id=\"standard-user-profile-twitter\">Legatură Twitter </span>"
+
+#: ../functions.php:2702
+msgid "<span class=\"standard-user-profile\" id=\"standard-user-profile-facebook\">Facebook URL</span>"
+msgstr "<span class=\"standard-user-profile\" id=\"standard-user-profile-facebook\"> Legatură Facebook</span>"
+
+#: ../functions.php:2705
+msgid "<span class=\"standard-user-profile\" id=\"standard-user-profile-google-plus\">Google+ URL</span>"
+msgstr "<span class=\"standard-user-profile\" id=\"standard-user-profile-google-plus\">Legatură Google+ </span> "
+
+#: ../functions.php:2949
+msgid "Search..."
+msgstr "Caută"
+
+#: ../functions.php:3131
+msgid "A title is required for search engines."
+msgstr "Titlul este necesar pentru motoarele de cautare."
+
+#: ../functions.php:3132
+msgid "An alternate text description is required for search engines."
+msgstr "O descriere text alternativă  este necesară  pentru motoarele de cautare."
+
+#: ../functions.php:3206
+msgid " is currently offline. "
+msgstr "este momentan offline."
+
+#: ../functions.php:3401
+msgid "Name"
+msgstr "Nume"
+
+#: ../functions.php:3402
+msgid "Email"
+msgstr "Email"
+
+#: ../functions.php:3403
+#: ../single.php:47
+msgid "Website"
+msgstr "Site Web"
+
+#: ../functions.php:3411
+#, php-format
+msgid "Text formatting is available via select <a href=\"javascript:;\">HTML</a>. %s"
+msgstr "Formatarea textului este disponibilă prin intermediul selectați <a href=\"javascript:;\">HTML</a>. %s"
+
+#: ../functions.php:3412
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Conectat ca <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Ieși din acest cont\">Ieși din cont?</a>"
+
+#: ../index.php:29
+msgid "Archives For "
+msgstr "Archive Pentru"
+
+#: ../index.php:66
+#: ../search.php:45
+msgid "Page or resource not found"
+msgstr "Pagina sau resursa nu a fost găsită."
+
+#: ../index.php:69
+#: ../search.php:48
+msgid "No results were found."
+msgstr "Nu au fost găsite rezultate."
+
+#: ../loop-image.php:22
+#: ../loop-image.php:24
+#: ../loop-link.php:65
+#: ../loop-quote.php:17
+#: ../loop-quote.php:19
+#: ../loop-status.php:21
+#: ../loop-status.php:23
+#: ../loop-video.php:16
+#: ../loop-video.php:18
+#: ../loop.php:54
+#: ../loop.php:56
+msgid "Continue Reading..."
+msgstr "Citeste mai departe"
+
+#: ../loop-image.php:29
+#: ../loop-quote.php:39
+#: ../loop-video.php:23
+#: ../loop.php:61
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: ../loop-image.php:41
+#: ../loop-link.php:74
+#: ../loop-quote.php:52
+#: ../loop-status.php:34
+#: ../loop-video.php:35
+msgid " Posted by "
+msgstr "Publicat de"
+
+#: ../loop-image.php:42
+#: ../loop-link.php:75
+#: ../loop-quote.php:53
+#: ../loop-status.php:35
+#: ../loop-video.php:36
+msgid " on "
+msgstr "în"
+
+#: ../loop-image.php:44
+#: ../loop-link.php:77
+#: ../loop-quote.php:55
+#: ../loop-status.php:37
+#: ../loop-video.php:38
+#, php-format
+msgid "Posted on %1$s"
+msgstr "Postat pe %1$s"
+
+#: ../loop-image.php:47
+#: ../loop-image.php:52
+#: ../loop-link.php:80
+#: ../loop-link.php:85
+#: ../loop-quote.php:58
+#: ../loop-quote.php:63
+#: ../loop-status.php:40
+#: ../loop-status.php:45
+#: ../loop-video.php:41
+#: ../loop-video.php:46
+#: ../loop.php:72
+#: ../loop.php:77
+msgid ", "
+msgstr ","
+
+#: ../loop-image.php:49
+#: ../loop-link.php:82
+#: ../loop-quote.php:60
+#: ../loop-status.php:42
+#: ../loop-video.php:43
+#: ../loop.php:74
+#, php-format
+msgid "In %1$s"
+msgstr "In %1$s"
+
+#: ../loop-image.php:54
+#: ../loop-link.php:87
+#: ../loop-quote.php:65
+#: ../loop-status.php:47
+#: ../loop-video.php:48
+#: ../loop.php:79
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../loop-image.php:62
+#: ../loop-link.php:95
+#: ../loop-quote.php:73
+#: ../loop-status.php:55
+#: ../loop-video.php:56
+#: ../loop.php:44
+#: ../loop.php:87
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: ../loop-image.php:62
+#: ../loop-link.php:95
+#: ../loop-quote.php:73
+#: ../loop-status.php:55
+#: ../loop-video.php:56
+#: ../loop.php:44
+#: ../loop.php:87
+msgid "1 Comment"
+msgstr "1 Comentariu"
+
+#: ../loop-image.php:62
+#: ../loop-link.php:95
+#: ../loop-quote.php:73
+#: ../loop-status.php:55
+#: ../loop-video.php:56
+#: ../loop.php:44
+#: ../loop.php:87
+msgid "% Comments"
+msgstr "% Comentarii"
+
+#: ../pagination.php:20
+msgid "<i class=\"icon-chevron-left\"></i>"
+msgstr "<i class=\"icon-chevron-left\"></i>"
+
+#: ../pagination.php:26
+msgid "<i class=\"icon-chevron-right\"></i>"
+msgstr "<i class=\"icon-chevron-right\"></i>"
+
+#: ../pagination.php:39
+msgid "<span class=\"nav-previous meta-nav\"><i class=\"icon-chevron-left\"></i> Older</span>"
+msgstr "<span class=\"nav-previous meta-nav\"><i class=\"icon-chevron-left\"></i> Mai vechi</span>"
+
+#: ../pagination.php:45
+msgid "<span class=\"nav-next meta-nav\">Newer <i class=\"icon-chevron-right\"></i></span>"
+msgstr "<span class=\"nav-next meta-nav\">Mai Noi <i class=\"icon-chevron-right\"></i></span>"
+
+#: ../search.php:29
+msgid "Search Results For \""
+msgstr "Rezultatele Căutării Pentru \""
+
+#: ../search.php:29
+msgid "\""
+msgstr "\""
+
+#: ../single.php:51
+#: ../lib/influence/views/admin.php:31
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../single.php:55
+#: ../lib/influence/views/admin.php:38
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../single.php:59
+msgid "Google+"
+msgstr "Google+"
+
+#: ../template-archives.php:37
+msgid "All Categories"
+msgstr "Toate Categoriile"
+
+#: ../template-archives.php:48
+msgid "You have no categories."
+msgstr "Nu ai nici o categorie."
+
+#: ../template-archives.php:51
+msgid "All Posts"
+msgstr "Toate Articolele"
+
+#: ../template-archives.php:63
+msgid "You have no posts."
+msgstr "Nu ai nici un articol."
+
+#: ../template-sitemap.php:35
+msgid "Authors"
+msgstr "Autori"
+
+#: ../lib/activity/plugin.php:20
+msgid "standard-activity-tabs"
+msgstr "standard-activity-tabs"
+
+#: ../lib/activity/plugin.php:21
+msgid "Display your most recent posts, comments, popular posts, and tags."
+msgstr "Afișează mesajele cele mai recente, comentarii, posturi populare, și tag-uri."
+
+#: ../lib/activity/plugin.php:23
+msgid "Activity Tabs"
+msgstr "Tab-uri de Activitate"
+
+#: ../lib/activity/plugin.php:170
+msgid "Recent"
+msgstr "Recente"
+
+#: ../lib/activity/plugin.php:174
+msgid "Popular"
+msgstr "Populare"
+
+#: ../lib/activity/plugin.php:178
+msgid "Comments"
+msgstr "Comentarii"
+
+#: ../lib/activity/plugin.php:182
+msgid "Tags"
+msgstr "Tag-uri"
+
+#: ../lib/activity/plugin.php:276
+msgid "You have no recent posts."
+msgstr "Nu ai articole recente."
+
+#: ../lib/activity/plugin.php:340
+msgid " comments since "
+msgstr "comentariile din"
+
+#: ../lib/activity/plugin.php:360
+msgid "You have no popular posts."
+msgstr "Nu ai posturi populare."
+
+#: ../lib/activity/plugin.php:431
+msgid "You have no comments."
+msgstr "Nu ai comentarii."
+
+#: ../lib/activity/plugin.php:467
+msgid "You have no tags."
+msgstr "Nu ai tag-uri"
+
+#: ../lib/activity/views/admin.php:4
+#: ../lib/activity/views/admin.php:14
+#: ../lib/activity/views/admin.php:24
+#: ../lib/activity/views/admin.php:34
+msgid "Show"
+msgstr "Arăta"
+
+#: ../lib/activity/views/admin.php:10
+msgid "recent posts"
+msgstr "posturi recente"
+
+#: ../lib/activity/views/admin.php:20
+msgid "most commented posts"
+msgstr "cele mai comentate posturi"
+
+#: ../lib/activity/views/admin.php:30
+msgid "recent comments"
+msgstr "comentariile recente"
+
+#: ../lib/activity/views/admin.php:40
+msgid "most used tags"
+msgstr "cele mai utilizate tag-uri"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:49
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:51
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:53
+msgid "Archives"
+msgstr "Arhive"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:49
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:51
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:53
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:58
+msgid " / "
+msgstr " / "
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:58
+msgid "Search"
+msgstr "Cautare"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:83
+msgid "Home"
+msgstr "Prima pagină"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:265
+msgid "[ No search query. ]"
+msgstr "[ Fara interogare de cautare. ]"
+
+#: ../lib/google-custom-search/plugin.php:18
+msgid "standard-google-custom-search"
+msgstr "standard-google-custom-search"
+
+#: ../lib/google-custom-search/plugin.php:19
+msgid "Easily add Google Custom Search to your Standard-powered blog."
+msgstr "Adăuga cu ușurință  Cautare Google Personalizată pe blog-ul dvs."
+
+#: ../lib/google-custom-search/plugin.php:21
+msgid "Google Custom Search"
+msgstr " Cautare Google Personalizată"
+
+#: ../lib/google-custom-search/plugin.php:146
+msgid "Search Results"
+msgstr "Rezultatele Cautării"
+
+#: ../lib/google-custom-search/plugin.php:197
+msgid "Could not configure Google Custom Search widget because the required \"search-results\" permalink is already in use. Please rename <a href=\"post.php?post="
+msgstr " Nu se poate configura widget-ul Cautare Google Personalizată pentru ca numele pentru pagina de cautare  \"search-results\"  este deja un uz. Te rog redenumește <a href=\"post.php?post="
+
+#: ../lib/google-custom-search/plugin.php:203
+msgid "This page was generated by Standard for use with the Google Custom Search widget. <a href=\"widgets.php\">Remove the widget</a> from all sidebar to delete this page."
+msgstr "Aceasta pagină a fost generată de Standard pentru a fi utilizata cu widget-ul Cautare Google Personalizată. <a href=\"widgets.php\">Sterge acest  widget</a> din toate sidebar-urile pentru a șterge această pagină."
+
+#: ../lib/google-custom-search/views/admin.php:4
+msgid "Paste your Google Custom Search Engine ID here. "
+msgstr "Lipește aici ID-ul pentru Cautare Google Personalizată."
+
+#: ../lib/google-custom-search/views/admin.php:5
+msgid "<em><a href=\"http://docs.8bit.io/standard/widgets/google-custom-search-widget/\" target=\"_blank\">Learn More</a>.</em>"
+msgstr "<em><a href=\"http://docs.8bit.io/standard/widgets/google-custom-search-widget/\" target=\"_blank\">Află mai multe</a>.</em>"
+
+#: ../lib/influence/plugin.php:17
+msgid "standard-social-influence"
+msgstr "standard-social-influence"
+
+#: ../lib/influence/plugin.php:18
+msgid "Display your social influence by showcasing Twitter followers and Facebook fans."
+msgstr "Afișează influenta ta socială prin prezentarea fanilor Twitter și Facebook."
+
+#: ../lib/influence/plugin.php:20
+msgid "Social Influence"
+msgstr "Influența socială"
+
+#: ../lib/influence/views/admin.php:6
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: ../lib/influence/views/admin.php:7
+msgid "Username (without '@')"
+msgstr "Utilizator (fără '@')"
+
+#: ../lib/influence/views/admin.php:11
+msgid "Facebook Fan Page:"
+msgstr "Pagina Facebook:"
+
+#: ../lib/influence/views/admin.php:12
+msgid "Username only"
+msgstr "Doar Utilizator"
+
+#: ../lib/influence/views/admin.php:16
+msgid "Display"
+msgstr "Afișază"
+
+#: ../lib/influence/views/admin.php:18
+msgid "Individual count"
+msgstr "Numarotație  individuală"
+
+#: ../lib/influence/views/admin.php:19
+msgid "Total influence"
+msgstr "Influența Totală"
+
+#: ../lib/influence/views/admin.php:20
+msgid "Both"
+msgstr "Amândouă"
+
+#: ../lib/influence/views/admin.php:50
+msgid "Unfortunately, your web host does not support features that this widget requires."
+msgstr "Din păcate, gazda dvs. Web nu acceptă caracteristicile necesare funcționării acestui widget."
+
+#: ../lib/influence/views/admin.php:51
+msgid "<a href=\"TODO\">Learn more</a> about this error."
+msgstr "<a href=\"TODO\">Află mai multe</a> despre această eroare."
+
+#: ../lib/personal-image/plugin.php:17
+msgid "personal-image"
+msgstr "personal-image"
+
+#: ../lib/personal-image/plugin.php:18
+msgid "Display a personal image and an optional description."
+msgstr "Afișază  o imagine personală și o descriere opțională."
+
+#: ../lib/personal-image/plugin.php:20
+msgid "Personal Image"
+msgstr "Imagine Personală"
+
+#: ../lib/personal-image/views/admin.php:5
+msgid "Personal Image:"
+msgstr "Imagine Personală:"
+
+#: ../lib/personal-image/views/admin.php:11
+msgid "Maximum width is 300 pixels."
+msgstr "Lățimea maximă este de 300 pixeli."
+
+#: ../lib/personal-image/views/admin.php:12
+msgid "Delete Image"
+msgstr "Sterge Imaginea"
+
+#: ../lib/personal-image/views/admin.php:24
+msgid "Bio (Optional):"
+msgstr "Descriere (opțional):"
+
+#: ../lib/personal-image/views/admin.php:26
+msgid "400"
+msgstr "400"
+
+#: ../lib/personal-image/views/admin.php:26
+msgid " characters remaining"
+msgstr "caractere rămase"
+
+#: ../lib/seo/plugin.php:40
+#: ../lib/seo/plugin.php:49
+msgid "Standard SEO"
+msgstr "Standard SEO"
+
+#: ../lib/seo/plugin.php:67
+msgid "Search Results Preview "
+msgstr "Previzualizare Rezultatele căutarii"
+
+#: ../lib/seo/plugin.php:70
+msgid " - "
+msgstr " - "
+
+#: ../lib/seo/plugin.php:116
+msgid "Meta Description "
+msgstr "Descriere Meta"
+
+#: ../lib/seo/plugin.php:116
+msgid "140"
+msgstr "140"
+
+#: ../lib/seo/plugin.php:116
+msgid " characters remaining)"
+msgstr "caractere ramase)"
+
+#: ../lib/seo/plugin.php:123
+msgid "Writing a meta description for every post is strongly recommended for SEO. If not provided, no description will be published."
+msgstr "Scrierea unei descrieri meta pentru fiecare post este recomandat pentru SEO. În cazul în care nu există, nici o descriere nu v-a fi publicată."
+
+#: ../lib/seotitles/standard_seotitles.php:45
+msgid "Search Results For"
+msgstr "Rezultatele Cautării Pentru"
+
+#: ../lib/seotitles/standard_seotitles.php:45
+msgid "Results"
+msgstr "Rezultate"
+
+#: ../lib/seotitles/standard_seotitles.php:48
+msgid "404 Nothing Found"
+msgstr "404 Nu s-a gasit nimic"
+
+#: ../lib/seotitles/standard_seotitles.php:50
+msgid "Author Archives"
+msgstr "Arhivă Autor"
+
+#: ../lib/seotitles/standard_seotitles.php:64
+#: ../lib/seotitles/standard_seotitles.php:70
+#: ../lib/seotitles/standard_seotitles.php:73
+msgid "Archive"
+msgstr "Arhivă"
+
+#: ../lib/seotitles/standard_seotitles.php:75
+msgid "Tag Archive"
+msgstr "Arhivă Tag-uri"
+
+#: ../lib/standard-ad-125x125/plugin.php:17
+msgid "standard-ad-125x125"
+msgstr "standard-ad-125x125"
+
+#: ../lib/standard-ad-125x125/plugin.php:18
+msgid "Display a 125x125 advertisement."
+msgstr "Arată o reclamă 125x125"
+
+#: ../lib/standard-ad-125x125/plugin.php:20
+msgid "125x125 Ad"
+msgstr "Reclamă  125x125"
+
+#: ../lib/standard-ad-300x250/plugin.php:17
+msgid "standard-ad-300x250"
+msgstr "standard-ad-300x250"
+
+#: ../lib/standard-ad-300x250/plugin.php:18
+msgid "Display a 300x250 advertisement."
+msgstr "Arată o reclamă  300x250"
+
+#: ../lib/standard-ad-300x250/plugin.php:20
+msgid "300x250 Ad"
+msgstr "Reclamă 300x250"
+
+#: ../lib/standard-ad-300x250/views/admin.php:13
+#: ../lib/standard-ad-billboard/views/admin.php:13
+msgid "Delete Advertisement"
+msgstr "Șterge Reclama"
+
+#: ../lib/standard-ad-billboard/plugin.php:17
+msgid "standard-ad-billboard"
+msgstr "standard-ad-billboard"
+
+#: ../lib/standard-ad-billboard/plugin.php:18
+msgid "Display a 468x60 advertisement."
+msgstr "Arată o reclamă 468x60"
+
+#: ../lib/standard-ad-billboard/plugin.php:20
+msgid "468x60 Ad"
+msgstr "Reclamă 468x60 "
+

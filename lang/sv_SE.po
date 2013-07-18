@@ -1,0 +1,1135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Standard 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-19 18:28-0500\n"
+"PO-Revision-Date: 2013-02-11 19:23+0100\n"
+"Last-Translator: vlovgr <github@vlovgr.se>\n"
+"Language-Team: 8BIT <info@8bit.io>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid "404"
+msgstr "404"
+
+#: ../404.php:20
+msgid "Whoa... you broke the Internet!"
+msgstr "Wow... du förstörde Internet!"
+
+#: ../404.php:21
+msgid "The specified address does not contain a page or blog post at this time"
+msgstr ""
+"Den angivna adressen innehåller inte en sida eller blogginlägg för tillfället"
+
+#: ../404.php:21
+msgid "Click here to return home."
+msgstr "Klicka här för att återvända hem."
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Detta inlägg är lösenordsskyddat. Ange lösenordet för att visa kommentarer."
+
+#: ../comments.php:26
+msgid "No responses"
+msgstr "Inga svar"
+
+#: ../comments.php:26
+msgid "One response"
+msgstr "Ett svar"
+
+#: ../comments.php:26
+msgid "% responses"
+msgstr "% svar"
+
+#: ../comments.php:26
+msgid "to"
+msgstr "till"
+
+#: ../comments.php:32
+msgid "Previous Comments"
+msgstr "Föregående kommentarer"
+
+#: ../comments.php:35
+msgid "Next Comments"
+msgstr "Nästa kommentarer"
+
+#: ../comments.php:44
+msgid "Trackbacks and Pingbacks:"
+msgstr "Trackbacks och pingbacks:"
+
+#: ../comments.php:56
+msgid "No Comments"
+msgstr "Inga kommentarer"
+
+#: ../comments.php:57
+msgid "Be the first to start the conversation."
+msgstr "Bli först med att starta konversationen."
+
+#: ../footer.php:61
+#, php-format
+msgid "&copy; %1$s %2$s &mdash; %3$s &mdash; %4$s by %5$s"
+msgstr "&copy; %1$s %2$s &mdash; %3$s &mdash; %4$s av %5$s"
+
+#: ../footer.php:63
+#, php-format
+msgid "&copy; %1$s %2$s &mdash; %3$s by %4$s"
+msgstr "&copy; %1$s %2$s &mdash; %3$s av %4$s"
+
+#: ../functions.php:51
+msgid "Standard Options"
+msgstr "Standardinställningar"
+
+#: ../functions.php:52 ../functions.php:1284 ../functions.php:1752
+msgid "Standard"
+msgstr "Standard"
+
+#: ../functions.php:62 ../functions.php:63 ../functions.php:1303
+#: ../functions.php:1761
+msgid "Global"
+msgstr "Globalt"
+
+#: ../functions.php:71 ../functions.php:72 ../functions.php:1304
+#: ../functions.php:1361 ../functions.php:1771
+msgid "Presentation"
+msgstr "Presentation"
+
+#: ../functions.php:80 ../functions.php:81 ../functions.php:1305
+#: ../functions.php:1781
+msgid "Social"
+msgstr "Socialt"
+
+#: ../functions.php:89 ../functions.php:90 ../functions.php:1306
+#: ../functions.php:1481 ../functions.php:1791
+msgid "Publishing"
+msgstr "Publicering"
+
+#: ../functions.php:141
+msgid "Layout and Design"
+msgstr "Layout och Design"
+
+#: ../functions.php:148 ../functions.php:1402
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions.php:156
+msgid "Site Icon"
+msgstr "Sidikon"
+
+#: ../functions.php:164 ../functions.php:1377
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: ../functions.php:172 ../functions.php:1425
+msgid "Left Sidebar"
+msgstr "Vänster sidopanel"
+
+#: ../functions.php:183 ../functions.php:1426
+msgid "Right Sidebar"
+msgstr "Höger sidopanel"
+
+#: ../functions.php:194
+msgid "No Sidebar / Full Width"
+msgstr "Ingen sidopanel / Full bredd"
+
+#: ../functions.php:206
+msgid "Content"
+msgstr "Innehåll"
+
+#: ../functions.php:213 ../functions.php:1443
+msgid "Display Breadcrumbs"
+msgstr "Visa breadcrumbs"
+
+#: ../functions.php:221 ../functions.php:1465
+msgid "Display Featured Images"
+msgstr "Visa utvalda bilder"
+
+#: ../functions.php:246
+msgid "This section controls positioning and style elements."
+msgstr "Denna sektion kontrollerar position och formgivning av element."
+
+#: ../functions.php:253
+msgid "This section controls when content elements are displayed."
+msgstr "Denna sektion kontrollerar när innehållselement visas."
+
+#: ../functions.php:272 ../functions.php:319
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: ../functions.php:275 ../functions.php:322 ../functions.php:1120
+#: ../functions.php:1154 ../lib/standard-ad-125x125/views/admin.php:11
+#: ../lib/standard-ad-125x125/views/admin.php:19
+msgid "Delete"
+msgstr "Ta bort"
+
+#: ../functions.php:278
+msgid "Dimensions: 144px x 144px. Used for favicon and mobile devices."
+msgstr "Dimensioner: 144px x 144px. Används för favicon och mobila enheter. "
+
+#: ../functions.php:278 ../functions.php:1109 ../functions.php:1143
+#: ../functions.php:1840 ../functions.php:1845 ../functions.php:1850
+msgid "Learn more"
+msgstr "Läs mer"
+
+#: ../functions.php:292 ../functions.php:1382
+msgid "Light"
+msgstr "Ljus"
+
+#: ../functions.php:293 ../functions.php:1383
+msgid "Dark"
+msgstr "Mörk"
+
+#: ../functions.php:296
+msgid ""
+"Can be used with <a href=\"themes.php?page=custom-background\">custom "
+"backgrounds</a>."
+msgstr ""
+"Kan användas med <a href=\"themes.php?page=custom-background\">anpassade "
+"bakgrunder</a>."
+
+#: ../functions.php:325
+msgid ""
+"Use an image in place of the <a href=\"themes.php?page=custom-header\">Site "
+"Title and Tagline</a>. <a href=\"themes.php?page=custom-header\">Custom "
+"Headers</a> are also available."
+msgstr ""
+"Använd en bild istället för <a href=\"themes.php?page=custom-header"
+"\">sidotitel och slogan</a>. <a href=\"themes.php?page=custom-header"
+"\">Anpassade sidhuvuden</a> är också tillgängliga."
+
+#: ../functions.php:394 ../functions.php:414 ../functions.php:1086
+#: ../functions.php:1448 ../functions.php:1470 ../functions.php:1502
+msgid "Always"
+msgstr "Alltid"
+
+#: ../functions.php:395 ../functions.php:415 ../functions.php:1087
+#: ../functions.php:1449 ../functions.php:1471 ../functions.php:1503
+msgid "Never"
+msgstr "Aldrig"
+
+#: ../functions.php:398
+msgid ""
+"SEO experts encourage breadcrumb use. <a href=\"http://docs.8bit.io/standard/"
+"admin-panel/presentation/\">Learn more</a>."
+msgstr ""
+"SEO experter uppmuntrar användningen av breadcrumbs. <a href=\"http://"
+"docs.8bit.io/standard/admin-panel/presentation/\">Läs mer</a>."
+
+#: ../functions.php:416 ../functions.php:1472
+msgid "On index only"
+msgstr "Endast på index"
+
+#: ../functions.php:417 ../functions.php:1473
+msgid "On single posts only"
+msgstr "Endast på enskilt inlägg"
+
+#: ../functions.php:492
+msgid "Available Icons"
+msgstr "Tillgängliga ikoner"
+
+#: ../functions.php:500 ../functions.php:526
+msgid "Active Icons"
+msgstr "Aktiva ikoner"
+
+#: ../functions.php:520
+msgid ""
+"This section controls social network icons in the site header. Drag, drop, "
+"and position desired icons from the Icon Library to the Active Icons area. "
+"This section controls social network icons in the site header. Drag, drop, "
+"and position desired icons from the Icon Library to the Active Icons area. "
+"You can also delete all icons and <a href=\"javascript:;\" id=\"reset-social-"
+"icons\" class=\"ad_delete\">restore defaults.</a>"
+msgstr ""
+"Denna sektion kontrollerar sociala nätverksikoner i sidhuvudet. Dra, släpp "
+"och positionera önskade ikoner från ikonbiblioteket till området för aktiva "
+"ikoner. Du kan också ta bort alla ikoner och <a href=\"javascript:;\" id="
+"\"reset-social-icons\" class=\"ad_delete\">återställa till standard.</a>"
+
+#: ../functions.php:529
+msgid "Click an icon to set the full URL."
+msgstr "Klicka på en ikon för att sätta fullständig URL."
+
+#: ../functions.php:532
+msgid "Icon URL:"
+msgstr "Ikon URL:"
+
+#: ../functions.php:535
+msgid "Learn More"
+msgstr "Läs mer"
+
+#: ../functions.php:538
+msgid "Done"
+msgstr "Färdig"
+
+#: ../functions.php:540
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: ../functions.php:543
+msgid "Standard looks best with seven icons or fewer."
+msgstr "Standard ser bäst ut med sju ikoner eller färre."
+
+#: ../functions.php:549
+msgid "Icon Library"
+msgstr "Ikonbibliotek"
+
+#: ../functions.php:552
+msgid "Use native social icons or upload your own."
+msgstr "Använd inbyggda sociala ikoner eller ladda upp din egen."
+
+#: ../functions.php:554
+msgid "Drag social icons here to remove them from your library."
+msgstr "Dra sociala ikoner hit eller ta bort dem från ditt bibliotek."
+
+#: ../functions.php:556
+msgid "Upload New Icon"
+msgstr "Ladda upp ny ikon"
+
+#: ../functions.php:624
+msgid ""
+"You cannot delete the default set of Standard social icons. <a href="
+"\"javascript:;\" id=\"standard-hide-delete-social-icon-message\">Hide this "
+"message.</a>"
+msgstr ""
+"Du kan inte ta bort standarduppsättningen av sociala ikoner. <a href="
+"\"javascript:;\" id=\"standard-hide-delete-social-icon-message\">Dölj detta "
+"meddelande.</a>"
+
+#: ../functions.php:743
+msgid "Our site is currently offline."
+msgstr "Vår sida är offline för tillfället."
+
+#: ../functions.php:771
+msgid "FeedBurner URL"
+msgstr "FeedBurner URL"
+
+#: ../functions.php:779
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../functions.php:787
+msgid "Affiliate Code"
+msgstr "Affiliate Kod"
+
+#: ../functions.php:795
+msgid "Site Mode"
+msgstr "Sidoläge"
+
+#: ../functions.php:803
+msgid "Offline Message"
+msgstr "Offlinemeddelanden"
+
+#: ../functions.php:823
+msgid "Site Configuration "
+msgstr "Webbplatsinställningar"
+
+#: ../functions.php:824
+msgid "This section controls site wide features."
+msgstr "Denna sektion kontrollerar webbplatsens funktioner."
+
+#: ../functions.php:846
+msgid "Use in place of the native RSS feed."
+msgstr "Använd istället för det inbyggda RSS-flödet."
+
+#: ../functions.php:870
+msgid "Enter the ID only."
+msgstr "Ange enbart ID."
+
+#: ../functions.php:891
+msgid ""
+"Earn money by recommending Standard to your site visitors. <a href=\"http://"
+"docs.8bit.io/standard/affiliates\" target=\"_blank\">Learn more</a>."
+msgstr ""
+"Tjäna pengar genom att rekommendera Standard till dina besökare. <a href="
+"\"http://docs.8bit.io/standard/affiliates\" target=\"_blank\">Läs mer</a>."
+
+#: ../functions.php:910
+msgid "Online"
+msgstr "Online"
+
+#: ../functions.php:911
+msgid "Offline"
+msgstr "Offline"
+
+#: ../functions.php:917
+msgid ""
+"WARNING: Taking site offline will hide all content from site visitors and "
+"search engines."
+msgstr ""
+"VARNING: Att ta webbplatsen offline kommer att dölja allt innehåll från "
+"sidans besökare och sökmotorer."
+
+#: ../functions.php:1005 ../single.php:44 ../template-sitemap.php:72
+msgid "Posts"
+msgstr "Inlägg"
+
+#: ../functions.php:1012 ../functions.php:1497
+msgid "Display Author Box"
+msgstr "Visa författare-ruta"
+
+#: ../functions.php:1021 ../template-sitemap.php:60
+msgid "Pages"
+msgstr "Sidor"
+
+#: ../functions.php:1028 ../functions.php:1102 ../functions.php:1171
+msgid "Privacy Policy"
+msgstr "Sekretesspolicy"
+
+#: ../functions.php:1036 ../functions.php:1136 ../functions.php:1213
+msgid "Comment Policy"
+msgstr "Kommentarspolicy"
+
+#: ../functions.php:1061
+msgid ""
+"This section controls publisher-centric features available on individual "
+"posts."
+msgstr ""
+"Denna sektion kontrollerar utgivar-centrerade funktioner tillgängliga för "
+"individuella inlägg."
+
+#: ../functions.php:1068
+msgid "This section controls publisher-centric features available for pages."
+msgstr ""
+"Denna sektion kontrollerar utgivar-centrerade funktioner tillgängliga för "
+"sidor."
+
+#: ../functions.php:1090
+msgid ""
+"Display name, website, social networks, and bio from the <a href='profile."
+"php'>author's profile</a> after post content."
+msgstr ""
+"Visa namn, webbsida, sociala nätverk och biografi från <a href='profile."
+"php'>författarens profil</a> efter inläggets innehåll."
+
+#: ../functions.php:1106 ../functions.php:1140
+msgid "Generate"
+msgstr "Generera"
+
+#: ../functions.php:1109 ../functions.php:1143
+msgid ""
+"<a href=\"http://docs.8bit.io/standard/admin-panel/publishing/\" target="
+"\"_blank\">"
+msgstr ""
+"<a href=\"http://docs.8bit.io/standard/admin-panel/publishing/\" target="
+"\"_blank\">"
+
+#: ../functions.php:1122 ../functions.php:1156
+msgid "Warning, customizations will be lost. You can view or edit your policy "
+msgstr ""
+"Varning, anpassningar kommer att förloras. Du kan visa eller ändra din policy"
+
+#: ../functions.php:1122 ../functions.php:1156
+msgid "here"
+msgstr "här"
+
+#: ../functions.php:1284
+msgid "for publishers"
+msgstr "för utgivare"
+
+#: ../functions.php:1287
+msgid ""
+"Standard is a sleek, exacting product designed for uncluttered and "
+"sophisticated presentation of your content on desktop and mobile devices."
+msgstr ""
+"Standard är en elegant, krävande produkt designad för stilren och "
+"sofistikerad presentation av ditt innehåll på stationära och mobila enheter."
+
+#: ../functions.php:1293
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: ../functions.php:1294
+msgid "Support"
+msgstr "Support"
+
+#: ../functions.php:1295
+msgid "Blog"
+msgstr "Blogg"
+
+#: ../functions.php:1420
+msgid "Layout"
+msgstr "Layout"
+
+#: ../functions.php:1427
+msgid "No Sidebar / Full-Width"
+msgstr "Ingen sidopanel / Full bredd"
+
+#: ../functions.php:1587
+msgid "Standard Layout"
+msgstr "Standard layout"
+
+#: ../functions.php:1613
+msgid "Hide sidebar and display post at full width."
+msgstr "Dölj sidopanelen och visa inlägg med full bredd."
+
+#: ../functions.php:1672
+msgid "Link URL"
+msgstr "Länk URL"
+
+#: ../functions.php:1813
+msgid "The site is currently offline. To bring it back online, click here."
+msgstr ""
+"Sidan är för närvarande offline. För att ta tillbaka den online, klicka här."
+
+#: ../functions.php:1840
+msgid ""
+"Standard has detected the activation of WordPress SEO and is now running in "
+"SEO compatibility mode. <a href=\"http://docs.8bit.io/standard/seo\" target="
+"\"_blank\">"
+msgstr ""
+"Standard har upptäckt aktiveringen av WordPress SEO och kör nu i SEO "
+"kompatibilitetsläge.\v<a href=\"http://docs.8bit.io/standard/seo\" target="
+"\"_blank\">"
+
+#: ../functions.php:1845
+msgid ""
+"Standard has detected the activation of All-In-One SEO and is now running in "
+"SEO compatibility mode.  <a href=\"http://docs.8bit.io/standard/seo\" target="
+"\"_blank\">"
+msgstr ""
+"Standard har upptäckt aktiveringen av All-In-One SEO och kör nu i SEO "
+"kompatibilitetsläge.\v<a href=\"http://docs.8bit.io/standard/seo\" target="
+"\"_blank\">"
+
+#: ../functions.php:1850
+msgid ""
+"Standard has detected the activation of Platinum SEO and is now running in "
+"SEO compatibility mode.  <a href=\"http://docs.8bit.io/standard/seo\" target="
+"\"_blank\">"
+msgstr ""
+"Standard har upptäckt aktiveringen av Platinum SEO och kör nu i SEO "
+"kompatibilitetsläge.\v<a href=\"http://docs.8bit.io/standard/seo\" target="
+"\"_blank\">"
+
+#: ../functions.php:1952
+msgid "Header Menu (Upper)"
+msgstr "Sidhuvud (övre)"
+
+#: ../functions.php:1953
+msgid "Header Menu (Lower)"
+msgstr "Sidhuvud (undre)"
+
+#: ../functions.php:1954
+msgid "Footer Menu"
+msgstr "Sidfotsmeny"
+
+#: ../functions.php:1971
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: ../functions.php:1973
+msgid "The primary sidebar."
+msgstr "Den primära sidopanelen."
+
+#: ../functions.php:1984
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: ../functions.php:1986
+msgid ""
+"This area is designed for a 468x60 advertisement, but other widgets can be "
+"used here as well."
+msgstr ""
+"Detta område är avsett för en 468x60 annons, men andra widgets kan också "
+"användas här."
+
+#: ../functions.php:1997
+msgid "Below Single Post"
+msgstr "Under enskilt inlägg"
+
+#: ../functions.php:1999
+msgid ""
+"Shown after post content and before comments. Ideal for the 468x60 ad widget."
+msgstr ""
+"Visa efter inläggs innehåll och före kommentarer. Idealt för 468x60 annons "
+"widget."
+
+#: ../functions.php:2010
+msgid "Footer Left"
+msgstr "Sidfot vänster"
+
+#: ../functions.php:2012
+msgid "Shown in the first column of the footer."
+msgstr "Visas i första kolumnen av sidofoten"
+
+#: ../functions.php:2023
+msgid "Footer Center"
+msgstr "Sidofot center"
+
+#: ../functions.php:2025
+msgid "Shown in the second column of the footer."
+msgstr "Visas i andra kolumnen av sidofoten."
+
+#: ../functions.php:2036
+msgid "Footer Right"
+msgstr "Sidofot höger"
+
+#: ../functions.php:2038
+msgid "Shown in the third column of the footer."
+msgstr "Visas i tredje kolumnen av sidofoten"
+
+#: ../functions.php:2380
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s vid %2$s"
+
+#: ../functions.php:2381
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../functions.php:2387
+msgid "Your comment will appear after being approved."
+msgstr "Din kommentar kommer att visas efter att den blivit godkänd."
+
+#: ../functions.php:2403
+msgid "Reply"
+msgstr "Svara"
+
+#: ../functions.php:2701
+msgid ""
+"<span class=\"standard-user-profile\" id=\"standard-user-profile-twitter"
+"\">Twitter URL</span>"
+msgstr ""
+"<span class=\"standard-user-profile\" id=\"standard-user-profile-twitter"
+"\">Twitter URL</span>"
+
+#: ../functions.php:2702
+msgid ""
+"<span class=\"standard-user-profile\" id=\"standard-user-profile-facebook"
+"\">Facebook URL</span>"
+msgstr ""
+"<span class=\"standard-user-profile\" id=\"standard-user-profile-facebook"
+"\">Facebook URL</span>"
+
+#: ../functions.php:2705
+msgid ""
+"<span class=\"standard-user-profile\" id=\"standard-user-profile-google-plus"
+"\">Google+ URL</span>"
+msgstr ""
+"<span class=\"standard-user-profile\" id=\"standard-user-profile-google-plus"
+"\">Google+ URL</span>"
+
+#: ../functions.php:2949
+msgid "Search..."
+msgstr "Sök..."
+
+#: ../functions.php:3131
+msgid "A title is required for search engines."
+msgstr "En titel krävs för sökmotorer."
+
+#: ../functions.php:3132
+msgid "An alternate text description is required for search engines."
+msgstr "En alternativ textbeskrivning krävs för sökmotorer."
+
+#: ../functions.php:3206
+msgid " is currently offline. "
+msgstr "är för tillfället offline."
+
+#: ../functions.php:3401
+msgid "Name"
+msgstr "Namn"
+
+#: ../functions.php:3402
+msgid "Email"
+msgstr "E-post"
+
+#: ../functions.php:3403 ../single.php:47
+msgid "Website"
+msgstr "Webbsida"
+
+#: ../functions.php:3411
+#, php-format
+msgid ""
+"Text formatting is available via select <a href=\"javascript:;\">HTML</a>. %s"
+msgstr ""
+"Textformatering är tillgänglig via utvald <a href=\"javascript:;\">HTML</a>. "
+"%s"
+
+#: ../functions.php:3412
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Inloggad som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Logga ut?</a>"
+
+#: ../index.php:29
+msgid "Archives For "
+msgstr "Arkiv för"
+
+#: ../index.php:66 ../search.php:45
+msgid "Page or resource not found"
+msgstr "Sida eller resurs hittades inte"
+
+#: ../index.php:69 ../search.php:48
+msgid "No results were found."
+msgstr "Inga resultat hittades."
+
+#: ../loop-image.php:22 ../loop-image.php:24 ../loop-link.php:65
+#: ../loop-quote.php:17 ../loop-quote.php:19 ../loop-status.php:21
+#: ../loop-status.php:23 ../loop-video.php:16 ../loop-video.php:18
+#: ../loop.php:54 ../loop.php:56
+msgid "Continue Reading..."
+msgstr "Fortsätt läsa..."
+
+#: ../loop-image.php:29 ../loop-quote.php:39 ../loop-video.php:23
+#: ../loop.php:61
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: ../loop-image.php:41 ../loop-link.php:74 ../loop-quote.php:52
+#: ../loop-status.php:34 ../loop-video.php:35
+msgid " Posted by "
+msgstr "Skrivet av"
+
+#: ../loop-image.php:42 ../loop-link.php:75 ../loop-quote.php:53
+#: ../loop-status.php:35 ../loop-video.php:36
+msgid " on "
+msgstr " av "
+
+#: ../loop-image.php:44 ../loop-link.php:77 ../loop-quote.php:55
+#: ../loop-status.php:37 ../loop-video.php:38
+#, php-format
+msgid "Posted on %1$s"
+msgstr "Skrivet av %1$s"
+
+#: ../loop-image.php:47 ../loop-image.php:52 ../loop-link.php:80
+#: ../loop-link.php:85 ../loop-quote.php:58 ../loop-quote.php:63
+#: ../loop-status.php:40 ../loop-status.php:45 ../loop-video.php:41
+#: ../loop-video.php:46 ../loop.php:72 ../loop.php:77
+msgid ", "
+msgstr ", "
+
+#: ../loop-image.php:49 ../loop-link.php:82 ../loop-quote.php:60
+#: ../loop-status.php:42 ../loop-video.php:43 ../loop.php:74
+#, php-format
+msgid "In %1$s"
+msgstr "I %1$s"
+
+#: ../loop-image.php:54 ../loop-link.php:87 ../loop-quote.php:65
+#: ../loop-status.php:47 ../loop-video.php:48 ../loop.php:79
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../loop-image.php:62 ../loop-link.php:95 ../loop-quote.php:73
+#: ../loop-status.php:55 ../loop-video.php:56 ../loop.php:44 ../loop.php:87
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: ../loop-image.php:62 ../loop-link.php:95 ../loop-quote.php:73
+#: ../loop-status.php:55 ../loop-video.php:56 ../loop.php:44 ../loop.php:87
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: ../loop-image.php:62 ../loop-link.php:95 ../loop-quote.php:73
+#: ../loop-status.php:55 ../loop-video.php:56 ../loop.php:44 ../loop.php:87
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#: ../pagination.php:20
+msgid "<i class=\"icon-chevron-left\"></i>"
+msgstr "<i class=\"icon-chevron-left\"></i>"
+
+#: ../pagination.php:26
+msgid "<i class=\"icon-chevron-right\"></i>"
+msgstr "<i class=\"icon-chevron-right\"></i>"
+
+#: ../pagination.php:39
+msgid ""
+"<span class=\"nav-previous meta-nav\"><i class=\"icon-chevron-left\"></i> "
+"Older</span>"
+msgstr ""
+"<span class=\"nav-previous meta-nav\"><i class=\"icon-chevron-left\"></i> "
+"Äldre</span>"
+
+#: ../pagination.php:45
+msgid ""
+"<span class=\"nav-next meta-nav\">Newer <i class=\"icon-chevron-right\"></"
+"i></span>"
+msgstr ""
+"<span class=\"nav-next meta-nav\">Nyare <i class=\"icon-chevron-right\"></"
+"i></span>"
+
+#: ../search.php:29
+msgid "Search Results For \""
+msgstr "Sökresultat för \""
+
+#: ../search.php:29
+msgid "\""
+msgstr "\""
+
+#: ../single.php:51 ../lib/influence/views/admin.php:31
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../single.php:55 ../lib/influence/views/admin.php:38
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../single.php:59
+msgid "Google+"
+msgstr "Google+"
+
+#: ../template-archives.php:37
+msgid "All Categories"
+msgstr "Alla kategorier"
+
+#: ../template-archives.php:48
+msgid "You have no categories."
+msgstr "Du har inga kategorier."
+
+#: ../template-archives.php:51
+msgid "All Posts"
+msgstr "Alla inlägg"
+
+#: ../template-archives.php:63
+msgid "You have no posts."
+msgstr "Du har inga inlägg."
+
+#: ../template-sitemap.php:35
+msgid "Authors"
+msgstr "Författare"
+
+#: ../lib/activity/plugin.php:20
+msgid "standard-activity-tabs"
+msgstr "standard-activity-tabs"
+
+#: ../lib/activity/plugin.php:21
+msgid "Display your most recent posts, comments, popular posts, and tags."
+msgstr "Visa dina senaste inlägg, kommentarer, populära inlägg och etiketter."
+
+#: ../lib/activity/plugin.php:23
+msgid "Activity Tabs"
+msgstr "Aktivitetsflikar"
+
+#: ../lib/activity/plugin.php:170
+msgid "Recent"
+msgstr "Senaste"
+
+#: ../lib/activity/plugin.php:174
+msgid "Popular"
+msgstr "Populära"
+
+#: ../lib/activity/plugin.php:178
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: ../lib/activity/plugin.php:182
+msgid "Tags"
+msgstr "Etiketter"
+
+#: ../lib/activity/plugin.php:276
+msgid "You have no recent posts."
+msgstr "Du har inga nya inlägg."
+
+#: ../lib/activity/plugin.php:340
+msgid " comments since "
+msgstr " kommentarer sedan "
+
+#: ../lib/activity/plugin.php:360
+msgid "You have no popular posts."
+msgstr "Du har inga populära inlägg."
+
+#: ../lib/activity/plugin.php:431
+msgid "You have no comments."
+msgstr "Du har inga kommentarer."
+
+#: ../lib/activity/plugin.php:467
+msgid "You have no tags."
+msgstr "Du har inga etiketter."
+
+#: ../lib/activity/views/admin.php:4 ../lib/activity/views/admin.php:14
+#: ../lib/activity/views/admin.php:24 ../lib/activity/views/admin.php:34
+msgid "Show"
+msgstr "Visa"
+
+#: ../lib/activity/views/admin.php:10
+msgid "recent posts"
+msgstr "nya inlägg"
+
+#: ../lib/activity/views/admin.php:20
+msgid "most commented posts"
+msgstr "mest kommenterade inlägg"
+
+#: ../lib/activity/views/admin.php:30
+msgid "recent comments"
+msgstr "senaste kommentarer"
+
+#: ../lib/activity/views/admin.php:40
+msgid "most used tags"
+msgstr "mest använda etiketter"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:49
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:51
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:53
+msgid "Archives"
+msgstr "Arkiv"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:49
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:51
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:53
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:58
+msgid " / "
+msgstr " / "
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:58
+msgid "Search"
+msgstr "Sök"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:83
+msgid "Home"
+msgstr "Hem"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:265
+msgid "[ No search query. ]"
+msgstr "[ Ingen sökförfrågan. ]"
+
+#: ../lib/google-custom-search/plugin.php:18
+msgid "standard-google-custom-search"
+msgstr "standard-google-custom-search"
+
+#: ../lib/google-custom-search/plugin.php:19
+msgid "Easily add Google Custom Search to your Standard-powered blog."
+msgstr "Lägg enkelt till Google Anpassad Sök till din Standard blogg."
+
+#: ../lib/google-custom-search/plugin.php:21
+msgid "Google Custom Search"
+msgstr "Google Anpassad Sök"
+
+#: ../lib/google-custom-search/plugin.php:146
+msgid "Search Results"
+msgstr "Sökresultat"
+
+#: ../lib/google-custom-search/plugin.php:197
+msgid ""
+"Could not configure Google Custom Search widget because the required "
+"\"search-results\" permalink is already in use. Please rename <a href=\"post."
+"php?post="
+msgstr ""
+"Kunde inte konfigurera Google Anpassad Sök widget på grund av att \"search-"
+"results\" permalänken redan används. Var vänlig, byt namn på <a href=\"post."
+"php?post="
+
+#: ../lib/google-custom-search/plugin.php:203
+msgid ""
+"This page was generated by Standard for use with the Google Custom Search "
+"widget. <a href=\"widgets.php\">Remove the widget</a> from all sidebar to "
+"delete this page."
+msgstr ""
+"Denna sida generades av Standard för användning med Google Anpassad Sök "
+"widget. <a href=\"widgets.php\">Ta bort widget</a> från alla sidopaneler för "
+"att ta bort denna sida."
+
+#: ../lib/google-custom-search/views/admin.php:4
+msgid "Paste your Google Custom Search Engine ID here. "
+msgstr "Klistra in din Google Anpassad Sök ID här."
+
+#: ../lib/google-custom-search/views/admin.php:5
+msgid ""
+"<em><a href=\"http://docs.8bit.io/standard/widgets/google-custom-search-"
+"widget/\" target=\"_blank\">Learn More</a>.</em>"
+msgstr ""
+"<em><a href=\"http://docs.8bit.io/standard/widgets/google-custom-search-"
+"widget/\" target=\"_blank\">Läs mer</a>.</em>"
+
+#: ../lib/influence/plugin.php:17
+msgid "standard-social-influence"
+msgstr "standard-social-influence"
+
+#: ../lib/influence/plugin.php:18
+msgid ""
+"Display your social influence by showcasing Twitter followers and Facebook "
+"fans."
+msgstr ""
+"Visa din sociala inflytelse genom att visa Twitter-följare och Facebook-fans."
+
+#: ../lib/influence/plugin.php:20
+msgid "Social Influence"
+msgstr "Social Inflytelse"
+
+#: ../lib/influence/views/admin.php:6
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: ../lib/influence/views/admin.php:7
+msgid "Username (without '@')"
+msgstr "Användarnamn (utan '@')"
+
+#: ../lib/influence/views/admin.php:11
+msgid "Facebook Fan Page:"
+msgstr "Facebook fansida:"
+
+#: ../lib/influence/views/admin.php:12
+msgid "Username only"
+msgstr "Enbart användarnamn"
+
+#: ../lib/influence/views/admin.php:16
+msgid "Display"
+msgstr "Visa"
+
+#: ../lib/influence/views/admin.php:18
+msgid "Individual count"
+msgstr "Individuellt antal"
+
+#: ../lib/influence/views/admin.php:19
+msgid "Total influence"
+msgstr "Total inflytelse"
+
+#: ../lib/influence/views/admin.php:20
+msgid "Both"
+msgstr "Båda"
+
+#: ../lib/influence/views/admin.php:50
+msgid ""
+"Unfortunately, your web host does not support features that this widget "
+"requires."
+msgstr ""
+"Tyvärr, så har inte din webbhost de funktioner som denna widget kräver."
+
+#: ../lib/influence/views/admin.php:51
+msgid "<a href=\"TODO\">Learn more</a> about this error."
+msgstr "<a href=\"TODO\">Läs mer</a> om detta fel."
+
+#: ../lib/personal-image/plugin.php:17
+msgid "personal-image"
+msgstr "personal-image"
+
+#: ../lib/personal-image/plugin.php:18
+msgid "Display a personal image and an optional description."
+msgstr "Visa en personlig bild och en frivillig beskrivning."
+
+#: ../lib/personal-image/plugin.php:20
+msgid "Personal Image"
+msgstr "Personlig Bild"
+
+#: ../lib/personal-image/views/admin.php:5
+msgid "Personal Image:"
+msgstr "Personlig Bild:"
+
+#: ../lib/personal-image/views/admin.php:11
+msgid "Maximum width is 300 pixels."
+msgstr "Maximal bredd är 300 pixlar."
+
+#: ../lib/personal-image/views/admin.php:12
+msgid "Delete Image"
+msgstr "Ta bort bild"
+
+#: ../lib/personal-image/views/admin.php:24
+msgid "Bio (Optional):"
+msgstr "Biografi (frivillig):"
+
+#: ../lib/personal-image/views/admin.php:26
+msgid "400"
+msgstr "400"
+
+#: ../lib/personal-image/views/admin.php:26
+msgid " characters remaining"
+msgstr " tecken återstår"
+
+#: ../lib/seo/plugin.php:40 ../lib/seo/plugin.php:49
+msgid "Standard SEO"
+msgstr "Standard SEO"
+
+#: ../lib/seo/plugin.php:67
+msgid "Search Results Preview "
+msgstr "Förhandsgranskning av sökresultat"
+
+#: ../lib/seo/plugin.php:70
+msgid " - "
+msgstr " - "
+
+#: ../lib/seo/plugin.php:116
+msgid "Meta Description "
+msgstr "Metabeskrivning "
+
+#: ../lib/seo/plugin.php:116
+msgid "140"
+msgstr "140"
+
+#: ../lib/seo/plugin.php:116
+msgid " characters remaining)"
+msgstr " tecken återstår)"
+
+#: ../lib/seo/plugin.php:123
+msgid ""
+"Writing a meta description for every post is strongly recommended for SEO. "
+"If not provided, no description will be published."
+msgstr ""
+"Att skriva en metabeskrivning för varje inlägg rekommenderas stark för SEO. "
+"Om en inte anges, kommer ingen beskrivning att publiceras."
+
+#: ../lib/seotitles/standard_seotitles.php:45
+msgid "Search Results For"
+msgstr "Sökresultat för"
+
+#: ../lib/seotitles/standard_seotitles.php:45
+msgid "Results"
+msgstr "Resultat"
+
+#: ../lib/seotitles/standard_seotitles.php:48
+msgid "404 Nothing Found"
+msgstr "404 Inget hittades"
+
+#: ../lib/seotitles/standard_seotitles.php:50
+msgid "Author Archives"
+msgstr "Författararkiv"
+
+#: ../lib/seotitles/standard_seotitles.php:64
+#: ../lib/seotitles/standard_seotitles.php:70
+#: ../lib/seotitles/standard_seotitles.php:73
+msgid "Archive"
+msgstr "Arkiv"
+
+#: ../lib/seotitles/standard_seotitles.php:75
+msgid "Tag Archive"
+msgstr "Etikettarkiv"
+
+#: ../lib/standard-ad-125x125/plugin.php:17
+msgid "standard-ad-125x125"
+msgstr "standard-ad-125x125"
+
+#: ../lib/standard-ad-125x125/plugin.php:18
+msgid "Display a 125x125 advertisement."
+msgstr "Visa en 125x125 annons."
+
+#: ../lib/standard-ad-125x125/plugin.php:20
+msgid "125x125 Ad"
+msgstr "125x125 Annons"
+
+#: ../lib/standard-ad-300x250/plugin.php:17
+msgid "standard-ad-300x250"
+msgstr "standard-ad-300x250"
+
+#: ../lib/standard-ad-300x250/plugin.php:18
+msgid "Display a 300x250 advertisement."
+msgstr "Visa en 300x250 annons."
+
+#: ../lib/standard-ad-300x250/plugin.php:20
+msgid "300x250 Ad"
+msgstr "300x250 Annons"
+
+#: ../lib/standard-ad-300x250/views/admin.php:13
+#: ../lib/standard-ad-billboard/views/admin.php:13
+msgid "Delete Advertisement"
+msgstr "Ta bort annons"
+
+#: ../lib/standard-ad-billboard/plugin.php:17
+msgid "standard-ad-billboard"
+msgstr "standard-ad-billboard"
+
+#: ../lib/standard-ad-billboard/plugin.php:18
+msgid "Display a 468x60 advertisement."
+msgstr "Visa en 468x60 annons."
+
+#: ../lib/standard-ad-billboard/plugin.php:20
+msgid "468x60 Ad"
+msgstr "468x60 Annons"

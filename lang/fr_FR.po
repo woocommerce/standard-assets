@@ -1,0 +1,1107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Standard 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-27 19:21+0100\n"
+"PO-Revision-Date: 2012-07-27 14:36-0500\n"
+"Last-Translator: Chris Ames <chris@8bit.io>\n"
+"Language-Team: 8BIT <info@8bit.io>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid "404"
+msgstr "404"
+
+#: ../404.php:20
+msgid "Whoa... you broke the Internet!"
+msgstr "Aiee ... vous avez réussi à détruire internet...."
+
+#: ../404.php:21
+msgid "The specified address does not contain a page or blog post at this time"
+msgstr "L'adresse spécifiée ne contient pas encore de page ni d'article."
+
+#: ../404.php:21
+msgid "Click here to return home."
+msgstr "Cliquer ici pour retourner à l'accueil."
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Cet article est protégé par un mot de passe. Entrez un mot de passe pour voir les commentaires."
+
+#: ../comments.php:26
+msgid "No responses"
+msgstr "Pas de réponse."
+
+#: ../comments.php:26
+msgid "One response"
+msgstr "Une réponse"
+
+#: ../comments.php:26
+msgid "% responses"
+msgstr "% réponses"
+
+#: ../comments.php:26
+msgid "to"
+msgstr "à "
+
+#: ../comments.php:32
+msgid "Previous Comments"
+msgstr "Commentaires précédents"
+
+#: ../comments.php:35
+msgid "Next Comments"
+msgstr "Commentaires suivants"
+
+#: ../comments.php:44
+msgid "Trackbacks and Pingbacks:"
+msgstr "Rétroliens et pings:"
+
+#: ../comments.php:56
+msgid "No Comments"
+msgstr "Il n'y a pas de commentaire"
+
+#: ../comments.php:57
+msgid "Be the first to start the conversation."
+msgstr "Soyez le premier à commencer la conversation."
+
+#: ../footer.php:59
+#, php-format
+msgid "&copy; %1$s %2$s &mdash; %3$s &mdash; %4$s by %5$s"
+msgstr "&copy; %1$s %2$s &mdash; %3$s &mdash; %4$s par %5$s"
+
+#: ../footer.php:61
+#, php-format
+msgid "&copy; %1$s %2$s &mdash; %3$s by %4$s"
+msgstr "&copy; %1$s %2$s &mdash; %3$s par %4$s"
+
+#: ../functions.php:51
+msgid "Standard Options"
+msgstr "Options standards"
+
+#: ../functions.php:52
+#: ../functions.php:1277
+#: ../functions.php:1670
+msgid "Standard"
+msgstr "Standard"
+
+#: ../functions.php:62
+#: ../functions.php:63
+#: ../functions.php:1296
+#: ../functions.php:1679
+msgid "Global"
+msgstr "Global"
+
+#: ../functions.php:71
+#: ../functions.php:72
+#: ../functions.php:1297
+#: ../functions.php:1354
+#: ../functions.php:1689
+msgid "Presentation"
+msgstr "Présentation"
+
+#: ../functions.php:80
+#: ../functions.php:81
+#: ../functions.php:1298
+#: ../functions.php:1699
+msgid "Social"
+msgstr "Social"
+
+#: ../functions.php:89
+#: ../functions.php:90
+#: ../functions.php:1299
+#: ../functions.php:1474
+#: ../functions.php:1709
+msgid "Publishing"
+msgstr "Publication"
+
+#: ../functions.php:141
+msgid "Layout and Design"
+msgstr "Design et Layout"
+
+#: ../functions.php:148
+#: ../functions.php:1395
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions.php:156
+msgid "Site Icon"
+msgstr "Icône du site"
+
+#: ../functions.php:164
+#: ../functions.php:1370
+msgid "Contrast"
+msgstr "Contraste"
+
+#: ../functions.php:172
+#: ../functions.php:1418
+msgid "Left Sidebar"
+msgstr "Bar latérale gauche"
+
+#: ../functions.php:183
+#: ../functions.php:1419
+msgid "Right Sidebar"
+msgstr "Barre latérale droite"
+
+#: ../functions.php:194
+msgid "No Sidebar / Full Width"
+msgstr "Sans barre latérale / Pleine Largeur"
+
+#: ../functions.php:206
+msgid "Content"
+msgstr "Contenu"
+
+#: ../functions.php:213
+#: ../functions.php:1436
+msgid "Display Breadcrumbs"
+msgstr "Afficher l'aide à la navigation"
+
+#: ../functions.php:221
+#: ../functions.php:1458
+msgid "Display Featured Images"
+msgstr "Afficher les images selectionnées"
+
+#: ../functions.php:246
+msgid "This section controls positioning and style elements."
+msgstr "Cette section contrôle le positionnement et le style des éléments."
+
+#: ../functions.php:253
+msgid "This section controls when content elements are displayed."
+msgstr "Cette section contrôle quand les éléments sont affichés."
+
+#: ../functions.php:272
+#: ../functions.php:319
+msgid "Upload"
+msgstr "Upload"
+
+#: ../functions.php:275
+#: ../functions.php:322
+#: ../functions.php:1085
+#: ../functions.php:1119
+msgid "Delete"
+msgstr "Détruire"
+
+#: ../functions.php:278
+#: ../functions.php:1074
+#: ../functions.php:1108
+#: ../functions.php:1758
+#: ../functions.php:1763
+#: ../functions.php:1768
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: ../functions.php:278
+msgid "Dimensions: 144px x 144px. Used for favicon and mobile devices. <a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\" target=\"_blank\">"
+msgstr "Dimensions : 144px x 144px.  Utilisée comme favicon et pour les mobiles. <a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\" target=\"_blank\">"
+
+#: ../functions.php:292
+#: ../functions.php:1375
+msgid "Light"
+msgstr "Clair"
+
+#: ../functions.php:293
+#: ../functions.php:1376
+msgid "Dark"
+msgstr "Foncé"
+
+#: ../functions.php:296
+msgid "Can be used with <a href=\"themes.php?page=custom-background\">custom backgrounds</a>."
+msgstr "Peut être utilisé avec <a href=\"themes.php?page=custom-background\"> les arrière-plans personnalisés</a>."
+
+#: ../functions.php:325
+msgid "Use an image in place of the <a href=\"themes.php?page=custom-header\">Site Title and Tagline</a>. <a href=\"themes.php?page=custom-header\">Custom Headers</a> are also available."
+msgstr "Utiliser une image à la place du <a href=\"themes.php?page=custom-header\">Titre du site et du slogan</a>. <a href=\"themes.php?page=custom-header\">Des entêtes personnalisées</a>sont aussi disponibles."
+
+#: ../functions.php:394
+#: ../functions.php:414
+#: ../functions.php:1051
+#: ../functions.php:1441
+#: ../functions.php:1463
+#: ../functions.php:1495
+msgid "Always"
+msgstr "Toujours"
+
+#: ../functions.php:395
+#: ../functions.php:415
+#: ../functions.php:1052
+#: ../functions.php:1442
+#: ../functions.php:1464
+#: ../functions.php:1496
+msgid "Never"
+msgstr "Jamais"
+
+#: ../functions.php:398
+msgid "SEO experts encourage breadcrumb use. <a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\">Learn more</a>."
+msgstr "Les expert en SEO encouragent l'utilisation du fil d'Ariane. <a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\">En savoir plus</a>."
+
+#: ../functions.php:416
+#: ../functions.php:1465
+msgid "On index only"
+msgstr "Sur l'index exclusivement"
+
+#: ../functions.php:417
+#: ../functions.php:1466
+msgid "On single posts only"
+msgstr "Sur les articles uniquement"
+
+#: ../functions.php:503
+msgid "Available Icons"
+msgstr "Icônes disponibles"
+
+#: ../functions.php:511
+#: ../functions.php:537
+msgid "Active Icons"
+msgstr "Icônes actives"
+
+#: ../functions.php:531
+msgid "This section controls social network icons in the site header. Drag, drop, and position desired icons from the Icon Library to the Active Icons area. This section controls social network icons in the site header. Drag, drop, and position desired icons from the Icon Library to the Active Icons area. You can also delete all icons and <a href=\"javascript:;\" id=\"reset-social-icons\" class=\"ad_delete\">restore defaults.</a>"
+msgstr "Cette section permet de controller les icônes des réseaux sociaux dans l'entête du site . Glisser, déposer, positionner les icônes choisies depuis la librairie des icônes vers la zone des icônes actives. Cette section permet de controller les icônes des réseaux sociaux dans l'entête du site. Glisser, déposer, positionner les icônes choisies depuis la librairie des icônes vers la zone des icônes actives.. Vous pouvez également <a href=\"javascript:;\" id=\"reset-social-icons\" class=\"ad_delete\">restaurer l'état par défaut.</a>"
+
+#: ../functions.php:540
+msgid "Click an icon to set the full URL."
+msgstr "Cliquer sur l'icône pour définir l'adresse complète."
+
+#: ../functions.php:543
+msgid "Icon URL:"
+msgstr "Adresse de l'icône : "
+
+#: ../functions.php:546
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: ../functions.php:549
+msgid "Done"
+msgstr "Fait"
+
+#: ../functions.php:551
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../functions.php:554
+msgid "Standard looks best with seven icons or fewer."
+msgstr "\"Standard\" est plus attractif avec sept icône ou moins."
+
+#: ../functions.php:560
+msgid "Icon Library"
+msgstr "Libraire des icônes"
+
+#: ../functions.php:563
+msgid "Use native social icons or upload your own."
+msgstr "Utiliser les icônes sociales natives ou télécharger vos propres icônes."
+
+#: ../functions.php:565
+msgid "Drag social icons here to remove them from your library."
+msgstr "Glisser les icônes sociale ici pour les enlever de votre librairie."
+
+#: ../functions.php:567
+msgid "Upload New Icon"
+msgstr "Envoyer une nouvelle icône"
+
+#: ../functions.php:635
+msgid "You cannot delete the default set of Standard social icons. <a href=\"javascript:;\" id=\"standard-hide-delete-social-icon-message\">Hide this message.</a>"
+msgstr "Vous ne pouvez pas détruire le jeu par défaut des icônes sociales. <a href=\"javascript:;\" id=\"standard-hide-delete-social-icon-message\">Masquer ce message.</a>"
+
+#: ../functions.php:708
+msgid "Our site is currently offline."
+msgstr "Votre site est hors ligne."
+
+#: ../functions.php:736
+msgid "FeedBurner URL"
+msgstr "Adresse FeedBurner"
+
+#: ../functions.php:744
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../functions.php:752
+msgid "Affiliate Code"
+msgstr "Code d'affiliation"
+
+#: ../functions.php:760
+msgid "Site Mode"
+msgstr "Mode du site"
+
+#: ../functions.php:768
+msgid "Offline Message"
+msgstr "Message hors ligne"
+
+#: ../functions.php:788
+msgid "Site Configuration "
+msgstr "Configuration du site"
+
+#: ../functions.php:789
+msgid "This section controls site wide features."
+msgstr "Cette section contrôles des fonctionnalités étendues."
+
+#: ../functions.php:811
+msgid "Use in place of the native RSS feed."
+msgstr "Utiliser à la place du flux RSS natif."
+
+#: ../functions.php:835
+msgid "Enter the ID only."
+msgstr "Saisir l'ID uniquement."
+
+#: ../functions.php:856
+msgid "Earn money by recommending Standard to your site visitors. <a href=\"http://docs.8bit.io/standard/affiliates\" target=\"_blank\">Learn more</a>."
+msgstr "Gagnez de l'argent en recommandant Standard aux visiteurs de votre site <a href=\"http://docs.8bit.io/standard/affiliates\" target=\"_blank\">En savoir plus</a"
+
+#: ../functions.php:875
+msgid "Online"
+msgstr "En ligne"
+
+#: ../functions.php:876
+msgid "Offline"
+msgstr "Hors ligne"
+
+#: ../functions.php:882
+msgid "WARNING: Taking site offline will hide all content from site visitors and search engines."
+msgstr "ATTENTION : Mettre le site hors ligne masquera tout le contenu du site au visiteur et moteurs de recherche."
+
+#: ../functions.php:970
+msgid "Posts"
+msgstr "Articles"
+
+#: ../functions.php:977
+#: ../functions.php:1490
+msgid "Display Author Box"
+msgstr "Afficher l'auteur"
+
+#: ../functions.php:986
+msgid "Pages"
+msgstr "Pages"
+
+#: ../functions.php:993
+#: ../functions.php:1067
+#: ../functions.php:1136
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+#: ../functions.php:1001
+#: ../functions.php:1101
+#: ../functions.php:1178
+msgid "Comment Policy"
+msgstr "Politique de commentaire"
+
+#: ../functions.php:1026
+msgid "This section controls publisher-centric features available on individual posts."
+msgstr "Cette section contrôle les fonctionnalités de publication disponibles sur les articles individuels."
+
+#: ../functions.php:1033
+msgid "This section controls publisher-centric features available for pages."
+msgstr "Cette section contrôle les fonctionnalités de publication disponibles pour les pages."
+
+#: ../functions.php:1055
+msgid "Display name, website, social networks, and bio from the <a href='profile.php'>author's profile</a> after post content."
+msgstr "Afficher le nom, le site, les réseaux sociaux et la bio du <a href='profile.php'>profil de l'auteur</a> après le contenu de l'article."
+
+#: ../functions.php:1071
+#: ../functions.php:1105
+msgid "Generate"
+msgstr "Générer"
+
+#: ../functions.php:1074
+#: ../functions.php:1108
+msgid "<a href=\"http://docs.8bit.io/standard/admin-panel/publishing/\" target=\"_blank\">"
+msgstr "<a href=\"http://docs.8bit.io/standard/admin-panel/publishing/\" target=\"_blank\">"
+
+#: ../functions.php:1087
+#: ../functions.php:1121
+msgid "Warning, customizations will be lost. You can view or edit your policy "
+msgstr "Attention, les modifications seront perdues. Vous pouvez voir ou éditer votre politique"
+
+#: ../functions.php:1087
+#: ../functions.php:1121
+msgid "here"
+msgstr "ici"
+
+#: ../functions.php:1277
+msgid "for publishers"
+msgstr "pour les diffuseurs"
+
+#: ../functions.php:1280
+msgid "Standard is a sleek, exacting product designed for uncluttered and sophisticated presentation of your content on desktop and mobile devices."
+msgstr "Standard est un thème élégant, épuré, conçu pour les ordinateurs de bureau comme les périphériques mobiles."
+
+#: ../functions.php:1286
+msgid "Documentation"
+msgstr "Documentation"
+
+#: ../functions.php:1287
+msgid "Support"
+msgstr "Support"
+
+#: ../functions.php:1288
+msgid "Blog"
+msgstr "Blog"
+
+#: ../functions.php:1413
+msgid "Layout"
+msgstr "Mise en page"
+
+#: ../functions.php:1420
+msgid "No Sidebar / Full-Width"
+msgstr "Sans barre latérale / Pleine largeur"
+
+#: ../functions.php:1580
+msgid "Standard Layout"
+msgstr "Mise en page par défaut"
+
+#: ../functions.php:1606
+msgid "Hide sidebar and display post at full width."
+msgstr "Cachez la barre latérale et afficher l'article en pleine largeur."
+
+#: ../functions.php:1731
+msgid "The site is currently offline. To bring it back online, click here."
+msgstr "Le site est actuellement hors ligne. Pour le mettre en ligne, cliquer ici."
+
+#: ../functions.php:1758
+msgid "Standard has detected the activation of WordPress SEO and is now running in SEO compatibility mode. <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+msgstr "Standard a détecter l'activation du mode SEO et fonctionne maintenant en moded compatibilité SEO <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+
+#: ../functions.php:1763
+msgid "Standard has detected the activation of All-In-One SEO and is now running in SEO compatibility mode.  <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+msgstr "Standard a détecté l'activation du SEO tout en un et fonctionne maintenant en mode de compatibilité SEO. <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+
+#: ../functions.php:1768
+msgid "Standard has detected the activation of Platinum SEO and is now running in SEO compatibility mode.  <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+msgstr "Standard a detecté l'activation du mode SEO Platinium et fonctionne maintenant en mode de compatibilité SEO   <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+
+#: ../functions.php:1870
+msgid "Header Menu (Upper)"
+msgstr "Menu de l'entête (Plus haut)"
+
+#: ../functions.php:1871
+msgid "Header Menu (Lower)"
+msgstr "Menu de l'entête (Plus bas)"
+
+#: ../functions.php:1872
+msgid "Footer Menu"
+msgstr "Menu du pied de page"
+
+#: ../functions.php:1889
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: ../functions.php:1891
+msgid "The primary sidebar."
+msgstr "Barre primaire lattérale"
+
+#: ../functions.php:1902
+msgid "Header"
+msgstr "Entête"
+
+#: ../functions.php:1904
+msgid "This area is designed for a 468x60 advertisement, but other widgets can be used here as well."
+msgstr "Cette zone est conçue pour une publicité de 468x60, mais d'autre widgets peuvent être utilisés ici également."
+
+#: ../functions.php:1915
+msgid "Below Single Post"
+msgstr "En dessous d'un article"
+
+#: ../functions.php:1917
+msgid "Shown after post content and before comments. Ideal for the 468x60 ad widget."
+msgstr "Visible après le contenu de l'article et avant les commentaires. Idéal pour les widget publicités de 468X60."
+
+#: ../functions.php:1928
+msgid "Footer Left"
+msgstr "Pied de page Gauche"
+
+#: ../functions.php:1930
+msgid "Shown in the first column of the footer."
+msgstr "Visible dans la première colonne du pied de page."
+
+#: ../functions.php:1941
+msgid "Footer Center"
+msgstr "Pied de page Centre"
+
+#: ../functions.php:1943
+msgid "Shown in the second column of the footer."
+msgstr "Visible dans la seconde colonne du pied de page."
+
+#: ../functions.php:1954
+msgid "Footer Right"
+msgstr "Pied de page à Droite"
+
+#: ../functions.php:1956
+msgid "Shown in the third column of the footer."
+msgstr "Visible dans la troisième colonne du pied de page."
+
+#: ../functions.php:2264
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: ../functions.php:2265
+msgid "Edit"
+msgstr "Editer"
+
+#: ../functions.php:2271
+msgid "Your comment will appear after being approved."
+msgstr "Votre commentaire apparaitra après avoir été approuvé."
+
+#: ../functions.php:2287
+msgid "Reply"
+msgstr "Répondre"
+
+#: ../functions.php:2567
+msgid "A previous version of Standard has been detected. In order to continue installation, your Standard option settings must be reset. <a href=\""
+msgstr "Une version précédente de Standard a été detectée. Afin de pouvoir continuer l'installation, votre option Standard doit être réinitialisée.<a href=\""
+
+#: ../functions.php:2589
+msgid "<span class=\"standard-user-profile\" id=\"standard-user-profile-twitter\">Twitter URL</span>"
+msgstr "<span class=\"standard-user-profile\" id=\"standard-user-profile-twitter\">Adresse de Twitter</span>"
+
+#: ../functions.php:2590
+msgid "<span class=\"standard-user-profile\" id=\"standard-user-profile-facebook\">Facebook URL</span>"
+msgstr "<span class=\"standard-user-profile\" id=\"standard-user-profile-facebook\">Adresse de Facebook</span>"
+
+#: ../functions.php:2593
+msgid "<span class=\"standard-user-profile\" id=\"standard-user-profile-google-plus\">Google+ URL</span>"
+msgstr "<span class=\"standard-user-profile\" id=\"standard-user-profile-google-plus\">Adresse de Google +</span>"
+
+#: ../functions.php:2837
+msgid "Search..."
+msgstr "Rechercher..."
+
+#: ../functions.php:3011
+msgid "A title is required for search engines."
+msgstr "Un titre est requis pour les moteurs de recherches."
+
+#: ../functions.php:3012
+msgid "An alternate text description is required for search engines."
+msgstr "Une description alternative est requise pour les moteurs de recherches."
+
+#: ../functions.php:3076
+msgid " is currently offline. "
+msgstr " est actuellement hors-ligne."
+
+#: ../functions.php:3272
+msgid "Name"
+msgstr "Nom"
+
+#: ../functions.php:3273
+msgid "Email"
+msgstr "Courriel"
+
+#: ../functions.php:3274
+msgid "Website"
+msgstr "Site web"
+
+#: ../functions.php:3282
+#, php-format
+msgid "Text formatting is available via select <a href=\"javascript:;\">HTML</a>. %s"
+msgstr "Le formatage de texte est disponible  par la sélection de <a href=\"javascript:;\">HTML</a>. %s"
+
+#: ../functions.php:3283
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Identifié comme <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Se déconnecter\">Se déconnecter?</a>"
+
+#: ../index.php:29
+msgid "Archives For "
+msgstr "Archives pour "
+
+#: ../index.php:60
+msgid "Page or resource not found"
+msgstr "Page ou ressource non trouvée"
+
+#: ../index.php:63
+msgid "No results were found."
+msgstr "Aucun résultat n'a été trouvé."
+
+#: ../loop-image.php:22
+#: ../loop-image.php:24
+#: ../loop-quote.php:17
+#: ../loop-quote.php:19
+#: ../loop-status.php:21
+#: ../loop-status.php:23
+#: ../loop-video.php:16
+#: ../loop-video.php:18
+#: ../loop.php:54
+#: ../loop.php:56
+msgid "Continue Reading..."
+msgstr "Continuer la lecture..."
+
+#: ../loop-image.php:29
+#: ../loop-quote.php:39
+#: ../loop-video.php:23
+#: ../loop.php:61
+msgid "Pages:"
+msgstr "Pages : "
+
+#: ../loop-image.php:41
+#: ../loop-link.php:62
+#: ../loop-quote.php:52
+#: ../loop-status.php:34
+#: ../loop-video.php:35
+msgid " Posted by "
+msgstr "Posté par "
+
+#: ../loop-image.php:42
+#: ../loop-link.php:63
+#: ../loop-quote.php:53
+#: ../loop-status.php:35
+#: ../loop-video.php:36
+msgid " on "
+msgstr " sur "
+
+#: ../loop-image.php:44
+#: ../loop-link.php:65
+#: ../loop-quote.php:55
+#: ../loop-status.php:37
+#: ../loop-video.php:38
+#, php-format
+msgid "Posted on %1$s"
+msgstr "Posté sur %1$s"
+
+#: ../loop-image.php:47
+#: ../loop-image.php:52
+#: ../loop-link.php:68
+#: ../loop-link.php:73
+#: ../loop-quote.php:58
+#: ../loop-quote.php:63
+#: ../loop-status.php:40
+#: ../loop-status.php:45
+#: ../loop-video.php:41
+#: ../loop-video.php:46
+#: ../loop.php:72
+#: ../loop.php:77
+msgid ", "
+msgstr ", "
+
+#: ../loop-image.php:49
+#: ../loop-link.php:70
+#: ../loop-quote.php:60
+#: ../loop-status.php:42
+#: ../loop-video.php:43
+#: ../loop.php:74
+#, php-format
+msgid "In %1$s"
+msgstr "Dans %1$s"
+
+#: ../loop-image.php:54
+#: ../loop-link.php:75
+#: ../loop-quote.php:65
+#: ../loop-status.php:47
+#: ../loop-video.php:48
+#: ../loop.php:79
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../loop-image.php:62
+#: ../loop-link.php:83
+#: ../loop-quote.php:73
+#: ../loop-status.php:55
+#: ../loop-video.php:56
+#: ../loop.php:44
+#: ../loop.php:87
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: ../loop-image.php:62
+#: ../loop-link.php:83
+#: ../loop-quote.php:73
+#: ../loop-status.php:55
+#: ../loop-video.php:56
+#: ../loop.php:44
+#: ../loop.php:87
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: ../loop-image.php:62
+#: ../loop-link.php:83
+#: ../loop-quote.php:73
+#: ../loop-status.php:55
+#: ../loop-video.php:56
+#: ../loop.php:44
+#: ../loop.php:87
+msgid "% Comments"
+msgstr "% Conmmentaires"
+
+#: ../pagination.php:20
+msgid "<i class=\"icon-chevron-left\"></i>"
+msgstr "<i class=\"icon-chevron-left\"></i>"
+
+#: ../pagination.php:26
+msgid "<i class=\"icon-chevron-right\"></i>"
+msgstr "<i class=\"icon-chevron-right\"></i>"
+
+#: ../pagination.php:39
+msgid "<span class=\"nav-previous meta-nav\"><i class=\"icon-chevron-left\"></i> Older</span>"
+msgstr "<span class=\"nav-previous meta-nav\"><i class=\"icon-chevron-left\"></i> Plus ancien</span>"
+
+#: ../pagination.php:45
+msgid "<span class=\"nav-next meta-nav\">Newer <i class=\"icon-chevron-right\"></i></span>"
+msgstr "<span class=\"nav-next meta-nav\">Newer <i class=\"icon-chevron-right\"></i></span>"
+
+#: ../search.php:29
+msgid "Search Results For \""
+msgstr "Résultat des recherches pour \""
+
+#: ../search.php:29
+msgid "\""
+msgstr "\""
+
+#: ../single.php:51
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../single.php:55
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../single.php:59
+msgid "Google+"
+msgstr "Google+"
+
+#: ../template-archives.php:37
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: ../template-archives.php:48
+msgid "You have no categories."
+msgstr "Vous n'avez de catégories."
+
+#: ../template-archives.php:51
+msgid "All Posts"
+msgstr "Tout les articles"
+
+#: ../template-archives.php:63
+msgid "You have no posts."
+msgstr "Vous n'avez pas d'article."
+
+#: ../template-sitemap.php:35
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../lib/activity/plugin.php:20
+msgid "standard-activity-tabs"
+msgstr "standard-activity-tabs"
+
+#: ../lib/activity/plugin.php:21
+msgid "Display your most recent posts, comments, popular posts, and tags."
+msgstr "Afficher les articles, les articles, les commentaires les plus récents ainsi que les articles et tags les plus populaires."
+
+#: ../lib/activity/plugin.php:23
+msgid "Activity Tabs"
+msgstr "Onglets d'activité"
+
+#: ../lib/activity/plugin.php:170
+msgid "Recent"
+msgstr "Récent"
+
+#: ../lib/activity/plugin.php:174
+msgid "Popular"
+msgstr "Populaire"
+
+#: ../lib/activity/plugin.php:178
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../lib/activity/plugin.php:182
+msgid "Tags"
+msgstr "Tags"
+
+#: ../lib/activity/plugin.php:276
+msgid "You have no recent posts."
+msgstr "Vous n'avez pas d'article récent."
+
+#: ../lib/activity/plugin.php:340
+msgid " comments since "
+msgstr " commentaires depuis "
+
+#: ../lib/activity/plugin.php:360
+msgid "You have no popular posts."
+msgstr "Vous n'avez pas d'article populaire."
+
+#: ../lib/activity/plugin.php:431
+msgid "You have no comments."
+msgstr "Vous n'avez pas de commentaire."
+
+#: ../lib/activity/plugin.php:467
+msgid "You have no tags."
+msgstr "Vous n'avez pas de tag."
+
+#: ../lib/activity/views/admin.php:4
+#: ../lib/activity/views/admin.php:14
+#: ../lib/activity/views/admin.php:24
+#: ../lib/activity/views/admin.php:34
+msgid "Show"
+msgstr "Montrer "
+
+#: ../lib/activity/views/admin.php:10
+msgid "recent posts"
+msgstr "articles récents"
+
+#: ../lib/activity/views/admin.php:20
+msgid "most commented posts."
+msgstr "articles les plus commentés  "
+
+#: ../lib/activity/views/admin.php:30
+msgid "recent comments"
+msgstr "commentaires récents"
+
+#: ../lib/activity/views/admin.php:40
+msgid "most used tags"
+msgstr "tags les plus utilisés"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:49
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:51
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:53
+msgid "Archives"
+msgstr "Archives"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:49
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:51
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:53
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:58
+msgid " / "
+msgstr " / "
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:58
+msgid "Search"
+msgstr "Rechercher"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:83
+msgid "Home"
+msgstr "Accueil"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:265
+msgid "[ No search query. ]"
+msgstr "[ Pas de requête de recherche. ]"
+
+#: ../lib/google-custom-search/plugin.php:18
+msgid "standard-google-custom-search"
+msgstr "standard-google-custom-search"
+
+#: ../lib/google-custom-search/plugin.php:19
+msgid "Easily add Google Custom Search to your Standard-powered blog."
+msgstr "Ajouter facilement les fonctionnalités de recherche fournies par Google dans votre Blog."
+
+#: ../lib/google-custom-search/plugin.php:21
+msgid "Google Custom Search"
+msgstr "Recherche sur google"
+
+#: ../lib/google-custom-search/plugin.php:146
+msgid "Search Results"
+msgstr "Résultats de recherche"
+
+#: ../lib/google-custom-search/plugin.php:197
+msgid "Could not configure Google Custom Search widget because the required \"search-results\" permalink is already in use. Please rename <a href=\"post.php?post="
+msgstr "Configuration du widget de recherche Google impossible parce que le \"search-results\" lien permanent est déjà utilisé. Renommer le svp.<a href=\"post.php?post="
+
+#: ../lib/google-custom-search/plugin.php:203
+msgid "This page was generated by Standard for use with the Google Custom Search widget. <a href=\"widgets.php\">Remove the widget</a> from all sidebar to delete this page."
+msgstr "Cette page a été générée par Standard afin d'être utilisée par le Widget de recherche Google. <a href=\"widgets.php\">Retirer le widget</a> de toutes les barre latérales pour détruire cette page."
+
+#: ../lib/google-custom-search/views/admin.php:4
+msgid "Paste your Google Custom Search Engine code here. "
+msgstr "Copier le Code de recherche Google ici. "
+
+#: ../lib/google-custom-search/views/admin.php:5
+msgid "<em><a href=\"http://docs.8bit.io/standard/widgets/google-custom-search-widget/\" target=\"_blank\">Learn More</a>.</em>"
+msgstr "<em><a href=\"http://docs.8bit.io/standard/widgets/google-custom-search-widget/\" target=\"_blank\">En savoir plus</a>.</em>"
+
+#: ../lib/influence/plugin.php:17
+msgid "standard-social-influence"
+msgstr "standard-social-influence"
+
+#: ../lib/influence/plugin.php:18
+msgid "Display your social influence by showcasing FeedBurner subscriptions, Twitter followers, and Facebook fans."
+msgstr "Afficher votre influence en présentant vos souscriptions FeedBurner, vos suiveurs Twitter et vos fans Facebook."
+
+#: ../lib/influence/plugin.php:20
+msgid "Social Influence"
+msgstr "Influence sociale"
+
+#: ../lib/influence/views/admin.php:6
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: ../lib/influence/views/admin.php:7
+msgid "Username (without '@')"
+msgstr "Nom d'utilisateur (sans '@')"
+
+#: ../lib/influence/views/admin.php:11
+msgid "Facebook Fan Page:"
+msgstr " Page des Fans Facebook : "
+
+#: ../lib/influence/views/admin.php:12
+msgid "Username only"
+msgstr "Nom d'utilisateur uniquement"
+
+#: ../lib/influence/views/admin.php:16
+msgid "FeedBurner:"
+msgstr "FeedBurner:"
+
+#: ../lib/influence/views/admin.php:17
+msgid "Feed name only"
+msgstr "Nom du flux seulement"
+
+#: ../lib/influence/views/admin.php:21
+msgid "Display"
+msgstr "Ecran"
+
+#: ../lib/influence/views/admin.php:23
+msgid "Individual count"
+msgstr "Compteur individuel"
+
+#: ../lib/influence/views/admin.php:24
+msgid "Total influence"
+msgstr "Influence totale"
+
+#: ../lib/influence/views/admin.php:25
+msgid "Both"
+msgstr "Les deux"
+
+#: ../lib/influence/views/admin.php:50
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: ../lib/influence/views/admin.php:62
+msgid "Unfortunately, your web host does not support features that this widget requires."
+msgstr "Malheureusement votre hôte web ne supporte pas les fonctionnalités requises par ce widget."
+
+#: ../lib/influence/views/admin.php:63
+msgid "<a href=\"TODO\">Learn more</a> about this error."
+msgstr "<a href=\"TODO\">En savoir plus</a> sur cette erreur."
+
+#: ../lib/personal-image/plugin.php:17
+msgid "personal-image"
+msgstr "personal-image"
+
+#: ../lib/personal-image/plugin.php:18
+msgid "Display a personal image and an optional description."
+msgstr "Afficher une image personnelle et une description optionnelle."
+
+#: ../lib/personal-image/plugin.php:20
+msgid "Personal Image"
+msgstr "Image Personnelle"
+
+#: ../lib/personal-image/views/admin.php:5
+msgid "Personal Image:"
+msgstr "Image Personnelle :"
+
+#: ../lib/personal-image/views/admin.php:11
+msgid "Maximum width is 300 pixels."
+msgstr "La taille maximum est 300 pixels."
+
+#: ../lib/personal-image/views/admin.php:12
+msgid "Delete Image"
+msgstr "Détruire l'image"
+
+#: ../lib/personal-image/views/admin.php:24
+msgid "Bio (Optional):"
+msgstr "Bio (Optionnel)"
+
+#: ../lib/personal-image/views/admin.php:26
+msgid "400"
+msgstr "400"
+
+#: ../lib/personal-image/views/admin.php:26
+msgid " characters remaining"
+msgstr " caractères restants"
+
+#: ../lib/seo/plugin.php:40
+#: ../lib/seo/plugin.php:49
+msgid "Standard SEO"
+msgstr "\"SEO\" Standard"
+
+#: ../lib/seo/plugin.php:67
+msgid "Search Results Preview "
+msgstr "Prévisualisation des résultats de recherche"
+
+#: ../lib/seo/plugin.php:70
+msgid " - "
+msgstr " - "
+
+#: ../lib/seo/plugin.php:82
+msgid "Meta Description "
+msgstr "Meta-description "
+
+#: ../lib/seo/plugin.php:82
+msgid "140"
+msgstr "140"
+
+#: ../lib/seo/plugin.php:82
+msgid " characters remaining)"
+msgstr " caractères restants)"
+
+#: ../lib/seo/plugin.php:89
+msgid "Writing a meta description for every post is strongly recommended for SEO. If not provided, no description will be published."
+msgstr "Écrire une meta-description pour chaque article est une pratique \"SEO\" fortement recommandée. Si aucune description n'est fournie, il n y aura pas de description associée à la publication."
+
+#: ../lib/seotitles/standard_seotitles.php:45
+msgid "Search Results For"
+msgstr "Résultat des recherches pour "
+
+#: ../lib/seotitles/standard_seotitles.php:45
+msgid "Results"
+msgstr "Résultats"
+
+#: ../lib/seotitles/standard_seotitles.php:48
+msgid "404 Nothing Found"
+msgstr "404 nous n'avons rien trouvé"
+
+#: ../lib/seotitles/standard_seotitles.php:50
+msgid "Author Archives"
+msgstr "Archives des auteurs"
+
+#: ../lib/seotitles/standard_seotitles.php:64
+#: ../lib/seotitles/standard_seotitles.php:70
+#: ../lib/seotitles/standard_seotitles.php:73
+msgid "Archive"
+msgstr "Archive"
+
+#: ../lib/seotitles/standard_seotitles.php:75
+msgid "Tag Archive"
+msgstr "Archive des Tags"
+
+#: ../lib/standard-ad-125x125/plugin.php:17
+msgid "standard-ad-125x125"
+msgstr "pub-standard-125x125"
+
+#: ../lib/standard-ad-125x125/plugin.php:18
+msgid "Display a 125x125 advertisement."
+msgstr "Afficher une publicité de 125x125."
+
+#: ../lib/standard-ad-125x125/plugin.php:20
+msgid "125x125 Ad"
+msgstr "Pub 125x125"
+
+#: ../lib/standard-ad-300x250/plugin.php:17
+msgid "standard-ad-300x250"
+msgstr "pub-standard-300x250"
+
+#: ../lib/standard-ad-300x250/plugin.php:18
+msgid "Display a 300x250 advertisement."
+msgstr "Afficher une publicité de 300x250"
+
+#: ../lib/standard-ad-300x250/plugin.php:20
+msgid "300x250 Ad"
+msgstr "Pub 300x250"
+
+#: ../lib/standard-ad-300x250/views/admin.php:13
+#: ../lib/standard-ad-billboard/views/admin.php:13
+msgid "Delete Advertisement"
+msgstr "Détruire la publicité"
+
+#: ../lib/standard-ad-billboard/plugin.php:17
+msgid "standard-ad-billboard"
+msgstr "panneau-publicitaire-standard"
+
+#: ../lib/standard-ad-billboard/plugin.php:18
+msgid "Display a 468x60 advertisement."
+msgstr "Afficher une pub de 468x60  "
+
+#: ../lib/standard-ad-billboard/plugin.php:20
+msgid "468x60 Ad"
+msgstr "Pub 468x60"
+

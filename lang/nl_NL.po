@@ -1,0 +1,1118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Standard 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-18 15:48-0500\n"
+"PO-Revision-Date: 2012-07-25 11:45+0100\n"
+"Last-Translator: Leo Oosterloo <leo@pronamic.nl>\n"
+"Language-Team: 8BIT <info@8bit.io>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid "404"
+msgstr "404"
+
+#: ../404.php:20
+msgid "Whoa... you broke the Internet!"
+msgstr "Wow... je hebt het internet vernield!"
+
+#: ../404.php:21
+msgid "The specified address does not contain a page or blog post at this time"
+msgstr "Het specifieke adres bevat op dit moment geen pagina of blog bericht"
+
+#: ../404.php:21
+msgid "Click here to return home."
+msgstr "Klik om naar de voorpagina terug te keren"
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit bericht is beveiligd met een wachtwoord. Vul een wachtwoord in om de reacties te zien."
+
+#: ../comments.php:26
+msgid "No responses"
+msgstr "Geen reacties"
+
+#: ../comments.php:26
+msgid "One response"
+msgstr "Eén reactie"
+
+#: ../comments.php:26
+msgid "% responses"
+msgstr "% reacties"
+
+#: ../comments.php:26
+msgid "to"
+msgstr "aan"
+
+#: ../comments.php:32
+msgid "Previous Comments"
+msgstr "Vorige reacties"
+
+#: ../comments.php:35
+msgid "Next Comments"
+msgstr "Volgende reacties"
+
+#: ../comments.php:44
+msgid "Trackbacks and Pingbacks:"
+msgstr "Trackbacks en Pingbacks:"
+
+#: ../comments.php:56
+msgid "No Comments"
+msgstr "Geen Reacties"
+
+#: ../comments.php:57
+msgid "Be the first to start the conversation."
+msgstr "Wees de eerste om de conversatie te starten."
+
+#: ../footer.php:59
+#, php-format
+msgid "&copy; %1$s %2$s &mdash; %3$s &mdash; %4$s by %5$s"
+msgstr "&copy; %1$s %2$s &mdash; %3$s &mdash; %4$s door %5$s"
+
+#: ../footer.php:61
+#, php-format
+msgid "&copy; %1$s %2$s &mdash; %3$s by %4$s"
+msgstr "&copy; %1$s %2$s &mdash; %3$s door %4$s"
+
+#: ../functions.php:51
+msgid "Standard Options"
+msgstr "Standard Opties"
+
+#: ../functions.php:52
+#: ../functions.php:1277
+#: ../functions.php:1670
+msgid "Standard"
+msgstr "Standard"
+
+#: ../functions.php:62
+#: ../functions.php:63
+#: ../functions.php:1296
+#: ../functions.php:1679
+msgid "Global"
+msgstr "Algemeen"
+
+#: ../functions.php:71
+#: ../functions.php:72
+#: ../functions.php:1297
+#: ../functions.php:1354
+#: ../functions.php:1689
+msgid "Presentation"
+msgstr "Presentatie"
+
+#: ../functions.php:80
+#: ../functions.php:81
+#: ../functions.php:1298
+#: ../functions.php:1699
+msgid "Social"
+msgstr "Sociaal"
+
+#: ../functions.php:89
+#: ../functions.php:90
+#: ../functions.php:1299
+#: ../functions.php:1474
+#: ../functions.php:1709
+msgid "Publishing"
+msgstr "Uitgeven"
+
+#: ../functions.php:141
+msgid "Layout and Design"
+msgstr "Opmaak en Ontwerp"
+
+#: ../functions.php:148
+#: ../functions.php:1395
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions.php:156
+msgid "Site Icon"
+msgstr "Site Pictogram"
+
+#: ../functions.php:164
+#: ../functions.php:1370
+msgid "Contrast"
+msgstr "Contrast"
+
+#: ../functions.php:172
+#: ../functions.php:1418
+msgid "Left Sidebar"
+msgstr "Zijbalk Links"
+
+#: ../functions.php:183
+#: ../functions.php:1419
+msgid "Right Sidebar"
+msgstr "Zijbalk Rechts"
+
+#: ../functions.php:194
+msgid "No Sidebar / Full Width"
+msgstr "Geen Zijbalk / Volledige breedte"
+
+#: ../functions.php:206
+msgid "Content"
+msgstr "Inhoud"
+
+#: ../functions.php:213
+#: ../functions.php:1436
+msgid "Display Breadcrumbs"
+msgstr "Broodkruimels Weergeven"
+
+#: ../functions.php:221
+#: ../functions.php:1458
+msgid "Display Featured Images"
+msgstr "Uitgelichte Afbeeldingen Weergeven"
+
+#: ../functions.php:246
+msgid "This section controls positioning and style elements."
+msgstr "Dit gedeelte bepaald de positie en stijl van elementen."
+
+#: ../functions.php:253
+msgid "This section controls when content elements are displayed."
+msgstr "Dit gedeelte bepaald wanneer inhoud elementen worden weergegeven."
+
+#: ../functions.php:272
+#: ../functions.php:319
+msgid "Upload"
+msgstr "Upload"
+
+#: ../functions.php:275
+#: ../functions.php:322
+#: ../functions.php:1085
+#: ../functions.php:1119
+msgid "Delete"
+msgstr "Delete"
+
+#: ../functions.php:278
+#: ../functions.php:1074
+#: ../functions.php:1108
+#: ../functions.php:1758
+#: ../functions.php:1763
+#: ../functions.php:1768
+msgid "Learn more"
+msgstr "Leer meer"
+
+#: ../functions.php:278
+msgid "Dimensions: 144px x 144px. Used for favicon and mobile devices. <a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\" target=\"_blank\">"
+msgstr "Afmetingen: 144px x 144px. Wordt gebruikt voor favicon en mobiele apparaten. <a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\" target=\"_blank\">"
+
+#: ../functions.php:292
+#: ../functions.php:1375
+msgid "Light"
+msgstr "Licht"
+
+#: ../functions.php:293
+#: ../functions.php:1376
+msgid "Dark"
+msgstr "Donker"
+
+#: ../functions.php:296
+msgid "Can be used with <a href=\"themes.php?page=custom-background\">custom backgrounds</a>."
+msgstr "Kan gebruikt worden met <a href=\"themes.php?page=custom-background\">eigen achtergronden</a>."
+
+#: ../functions.php:325
+msgid "Use an image in place of the <a href=\"themes.php?page=custom-header\">Site Title and Tagline</a>. <a href=\"themes.php?page=custom-header\">Custom Headers</a> are also available."
+msgstr "Gebruik een afbeelding in plaats van de <a href=\"themes.php?page=custom-header\">Websitetitel en Ondertitel</a>. <a href=\"themes.php?page=custom-header\">Eigen Headers</a> zijn ook mogelijk."
+
+#: ../functions.php:394
+#: ../functions.php:414
+#: ../functions.php:1051
+#: ../functions.php:1441
+#: ../functions.php:1463
+#: ../functions.php:1495
+msgid "Always"
+msgstr "Altijd"
+
+#: ../functions.php:395
+#: ../functions.php:415
+#: ../functions.php:1052
+#: ../functions.php:1442
+#: ../functions.php:1464
+#: ../functions.php:1496
+msgid "Never"
+msgstr "Nooit"
+
+#: ../functions.php:398
+msgid "SEO experts encourage breadcrumb use. <a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\">Learn more</a>."
+msgstr "SEO experts moedigen het gebruik van broodkruimels aan. <a href=\"http://docs.8bit.io/standard/admin-panel/presentation/\">Leer meer</a>."
+
+#: ../functions.php:416
+#: ../functions.php:1465
+msgid "On index only"
+msgstr "Alleen op index"
+
+#: ../functions.php:417
+#: ../functions.php:1466
+msgid "On single posts only"
+msgstr "Alleen op berichten"
+
+#: ../functions.php:503
+msgid "Available Icons"
+msgstr "Beschikbare Pictogrammen"
+
+#: ../functions.php:511
+#: ../functions.php:537
+msgid "Active Icons"
+msgstr "Actieve Pictogrammen"
+
+#: ../functions.php:531
+msgid "This section controls social network icons in the site header. Drag, drop, and position desired icons from the Icon Library to the Active Icons area. This section controls social network icons in the site header. Drag, drop, and position desired icons from the Icon Library to the Active Icons area. You can also delete all icons and <a href=\"javascript:;\" id=\"reset-social-icons\" class=\"ad_delete\">restore defaults.</a>"
+msgstr "Dit gedeelte bepaald de pictogrammen voor de sociale netwerken in de header. Sleep, plaats en positioneer de gewenste pictogrammen van de Pictogrammen Bibliotheek naar het Actieve Pictogrammen gebied. Je kunt ook alle pictogrammen verwijderen en de <a href=\"javascript:;\" id=\"reset-social-icons\" class=\"ad_delete\">standaard instellingen herstellen.</a>"
+
+#: ../functions.php:540
+msgid "Click an icon to set the full URL."
+msgstr "Klik op een pictogram om de volledige URL op te geven."
+
+#: ../functions.php:543
+msgid "Icon URL:"
+msgstr "Pictogram URL:"
+
+#: ../functions.php:546
+msgid "Learn More"
+msgstr "Leer meer"
+
+#: ../functions.php:549
+msgid "Done"
+msgstr "Klaar"
+
+#: ../functions.php:551
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../functions.php:554
+msgid "Standard looks best with seven icons or fewer."
+msgstr "Standard lijkt het mooist met zeven pictogrammen of minder."
+
+#: ../functions.php:560
+msgid "Icon Library"
+msgstr "Pictogrammen Bibliotheek"
+
+#: ../functions.php:563
+msgid "Use native social icons or upload your own."
+msgstr "Gebruik andere sociale pictogrammen of upload jouw eigen."
+
+#: ../functions.php:565
+msgid "Drag social icons here to remove them from your library."
+msgstr "Versleep sociale pictogrammen naar hier om ze uit de bibliotheek te verwijderen."
+
+#: ../functions.php:567
+msgid "Upload New Icon"
+msgstr "Upload nieuwe pictogram"
+
+#: ../functions.php:635
+msgid "You cannot delete the default set of Standard social icons. <a href=\"javascript:;\" id=\"standard-hide-delete-social-icon-message\">Hide this message.</a>"
+msgstr "Je kunt de standaard sociale pictogrammen set van Standard niet verwijderden. <a href=\"javascript:;\" id=\"standard-hide-delete-social-icon-message\">Verberg bericht.</a>"
+
+#: ../functions.php:708
+msgid "Our site is currently offline."
+msgstr "Onze site is op dit moment offline."
+
+#: ../functions.php:736
+msgid "FeedBurner URL"
+msgstr "FeedBurner URL"
+
+#: ../functions.php:744
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../functions.php:752
+msgid "Affiliate Code"
+msgstr "Partner Code"
+
+#: ../functions.php:760
+msgid "Site Mode"
+msgstr "Site Modus"
+
+#: ../functions.php:768
+msgid "Offline Message"
+msgstr "Offline Bericht"
+
+#: ../functions.php:788
+msgid "Site Configuration "
+msgstr "Site Configuratie"
+
+#: ../functions.php:789
+msgid "This section controls site wide features."
+msgstr "Dit gedeelte bepaald features van de hele website."
+
+#: ../functions.php:811
+msgid "Use in place of the native RSS feed."
+msgstr "Gebruik in plaats van standaard RSS feed."
+
+#: ../functions.php:835
+msgid "Enter the ID only."
+msgstr "Vul enkel de ID in."
+
+#: ../functions.php:856
+msgid "Earn money by recommending Standard to your site visitors. <a href=\"http://docs.8bit.io/standard/affiliates\" target=\"_blank\">Learn more</a>."
+msgstr "Verdien geld door Standard aan te bevelen bij jou website bezoekers. <a href=\"http://docs.8bit.io/standard/affiliates\" target=\"_blank\">Leer meer</a>."
+
+#: ../functions.php:875
+msgid "Online"
+msgstr "Online"
+
+#: ../functions.php:876
+msgid "Offline"
+msgstr "Offline"
+
+#: ../functions.php:882
+msgid "WARNING: Taking site offline will hide all content from site visitors and search engines."
+msgstr "WAARSCHUWING: De site offline halen zal alle inhoud verbergen voor de website bezoekers en zoekmachines."
+
+#: ../functions.php:970
+msgid "Posts"
+msgstr "Berichten"
+
+#: ../functions.php:977
+#: ../functions.php:1490
+msgid "Display Author Box"
+msgstr "Auteur blok weergeven"
+
+#: ../functions.php:986
+msgid "Pages"
+msgstr "Pagina's"
+
+#: ../functions.php:993
+#: ../functions.php:1067
+#: ../functions.php:1136
+msgid "Privacy Policy"
+msgstr "Privacy Beleid"
+
+#: ../functions.php:1001
+#: ../functions.php:1101
+#: ../functions.php:1178
+msgid "Comment Policy"
+msgstr "Reactie Beleid"
+
+#: ../functions.php:1026
+msgid "This section controls publisher-centric features available on individual posts."
+msgstr "Dit gedeelte bepaald de uitgevers-gerelateerde features beschikbaar voor individuele berichten."
+
+#: ../functions.php:1033
+msgid "This section controls publisher-centric features available for pages."
+msgstr "Dit gedeelte bepaald de uitgevers-gerelateerde features beschikbaar voor pagina's."
+
+#: ../functions.php:1055
+msgid "Display name, website, social networks, and bio from the <a href='profile.php'>author's profile</a> after post content."
+msgstr "Weergave naam, website, sociale netwerken, en bio van het <a href='profile.php'>auteurs profiel</a> na de inhoud van een bericht."
+
+#: ../functions.php:1071
+#: ../functions.php:1105
+msgid "Generate"
+msgstr "Genereer"
+
+#: ../functions.php:1074
+#: ../functions.php:1108
+msgid "<a href=\"http://docs.8bit.io/standard/admin-panel/publishing/\" target=\"_blank\">"
+msgstr "<a href=\"http://docs.8bit.io/standard/admin-panel/publishing/\" target=\"_blank\">"
+
+#: ../functions.php:1087
+#: ../functions.php:1121
+msgid "Warning, customizations will be lost. You can view or edit your policy "
+msgstr "Waarschuwing, wijzigingen gaan verloren. Je kunt jou beleid bekijken of aanpassen."
+
+#: ../functions.php:1087
+#: ../functions.php:1121
+msgid "here"
+msgstr "hier"
+
+#: ../functions.php:1277
+msgid "for publishers"
+msgstr "voor uitgevers"
+
+#: ../functions.php:1280
+msgid "Standard is a sleek, exacting product designed for uncluttered and sophisticated presentation of your content on desktop and mobile devices."
+msgstr "Standard is een slank, compleet product ontworpen voor een overzichtelijke en verfijnde weergave van jouw inhoud op de desktop en mobiele apparaten. "
+
+#: ../functions.php:1286
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: ../functions.php:1287
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: ../functions.php:1288
+msgid "Blog"
+msgstr "Blog"
+
+#: ../functions.php:1413
+msgid "Layout"
+msgstr "Opmaak"
+
+#: ../functions.php:1420
+msgid "No Sidebar / Full-Width"
+msgstr "Geen Zijbalk / Volledige breedte"
+
+#: ../functions.php:1580
+msgid "Standard Layout"
+msgstr "Standard Opmaak"
+
+#: ../functions.php:1606
+msgid "Hide sidebar and display post at full width."
+msgstr "Verberg zijbalk en bericht op volledige breedte weergeven."
+
+#: ../functions.php:1731
+msgid "The site is currently offline. To bring it back online, click here."
+msgstr "De website is op dit moment offline. Klik hier om het weer online te zetten."
+
+#: ../functions.php:1758
+msgid "Standard has detected the activation of WordPress SEO and is now running in SEO compatibility mode. <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+msgstr "Standard heeft het activeren van WordPress SEO gedetecteerd en loopt nu in SEO compatibiliteitsmodus. <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+
+#: ../functions.php:1763
+msgid "Standard has detected the activation of All-In-One SEO and is now running in SEO compatibility mode.  <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+msgstr "Standard heeft het activeren van All-in-One SEO gedetecteerd en loopt nu in SEO compatibliteitsmodus. <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+
+#: ../functions.php:1768
+msgid "Standard has detected the activation of Platinum SEO and is now running in SEO compatibility mode.  <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+msgstr "Standard heeft het activeren van Platinum SEO gedetecteerd en loopt nu in SEO compatibliteitsmodus. <a href=\"http://docs.8bit.io/standard/seo\" target=\"_blank\">"
+
+#: ../functions.php:1870
+msgid "Header Menu (Upper)"
+msgstr "Header Menu (Boven)"
+
+#: ../functions.php:1871
+msgid "Header Menu (Lower)"
+msgstr "Header Menu (Onder)"
+
+#: ../functions.php:1872
+msgid "Footer Menu"
+msgstr "Voet Menu"
+
+#: ../functions.php:1889
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: ../functions.php:1891
+msgid "The primary sidebar."
+msgstr "De primaire zijbalk."
+
+#: ../functions.php:1902
+msgid "Header"
+msgstr "Header"
+
+#: ../functions.php:1904
+msgid "This area is designed for a 468x60 advertisement, but other widgets can be used here as well."
+msgstr "Dit gedeelte is ontworpen voor een 248x60 advertentie, maar andere widgets kunnen hier ook gebruikt worden."
+
+#: ../functions.php:1915
+msgid "Below Single Post"
+msgstr "Onder elk bericht"
+
+#: ../functions.php:1917
+msgid "Shown after post content and before comments. Ideal for the 468x60 ad widget."
+msgstr "Getoond na bericht inhoud en voor de reacties. Ideaal voor de 468x60 adv widget"
+
+#: ../functions.php:1928
+msgid "Footer Left"
+msgstr "Voet links"
+
+#: ../functions.php:1930
+msgid "Shown in the first column of the footer."
+msgstr "Getoond in de eerste kolom van de voet."
+
+#: ../functions.php:1941
+msgid "Footer Center"
+msgstr "Voet midden"
+
+#: ../functions.php:1943
+msgid "Shown in the second column of the footer."
+msgstr "Getoond in de tweede kolom in de voet."
+
+#: ../functions.php:1954
+msgid "Footer Right"
+msgstr "Voet Rechts"
+
+#: ../functions.php:1956
+msgid "Shown in the third column of the footer."
+msgstr "Getoond in de derde kolom in de voet."
+
+#: ../functions.php:2264
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s van %2$s"
+
+#: ../functions.php:2265
+msgid "Edit"
+msgstr "Bewerk"
+
+#: ../functions.php:2271
+msgid "Your comment will appear after being approved."
+msgstr "Jouw reactie wordt weergegeven als deze is toegelaten."
+
+#: ../functions.php:2287
+msgid "Reply"
+msgstr "Reageer"
+
+#: ../functions.php:2567
+msgid "A previous version of Standard has been detected. In order to continue installation, your Standard option settings must be reset. <a href=\""
+msgstr "Een vorige versie van Standard is ontdekt. Om te kunnen doorgaan met installeren, moeten jou instellingen voor Standard optie worden gereset. <a href=\""
+
+#: ../functions.php:2589
+msgid "<span class=\"standard-user-profile\" id=\"standard-user-profile-twitter\">Twitter URL</span>"
+msgstr "<span class=\"standard-user-profile\" id=\"standard-user-profile-twitter\">Twitter URL</span>"
+
+#: ../functions.php:2590
+msgid "<span class=\"standard-user-profile\" id=\"standard-user-profile-facebook\">Facebook URL</span>"
+msgstr "<span class=\"standard-user-profile\" id=\"standard-user-profile-facebook\">Facebook URL</span>"
+
+#: ../functions.php:2593
+msgid "<span class=\"standard-user-profile\" id=\"standard-user-profile-google-plus\">Google+ URL</span>"
+msgstr "<span class=\"standard-user-profile\" id=\"standard-user-profile-google-plus\">Google+ URL</span>"
+
+#: ../functions.php:2837
+msgid "Search..."
+msgstr "Zoeken..."
+
+#: ../functions.php:3011
+msgid "A title is required for search engines."
+msgstr "Een titel is nodig voor zoekmachines."
+
+#: ../functions.php:3012
+msgid "An alternate text description is required for search engines."
+msgstr "Een alternatieve tekst beschrijving is nodig voor zoekmachines."
+
+#: ../functions.php:3076
+msgid " is currently offline. "
+msgstr "is momenteel offline."
+
+#: ../functions.php:3272
+msgid "Name"
+msgstr "Naam"
+
+#: ../functions.php:3273
+msgid "Email"
+msgstr "E-mail"
+
+#: ../functions.php:3274
+msgid "Website"
+msgstr "Website"
+
+#: ../functions.php:3282
+#, php-format
+msgid "Text formatting is available via select <a href=\"javascript:;\">HTML</a>. %s"
+msgstr "Tekstopmaak is beschikbaar door selecteren van <a href=\"javascript:;\">HTML</a>. %s"
+
+#: ../functions.php:3283
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Ingelogd als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Uitloggen van dit account\">Uitloggen?</a>"
+
+#: ../index.php:29
+msgid "Archives For "
+msgstr "Archief voor"
+
+#: ../index.php:60
+msgid "Page or resource not found"
+msgstr "Pagina of bron niet gevonden"
+
+#: ../index.php:63
+msgid "No results were found."
+msgstr "Geen resultaten gevonden."
+
+#: ../loop-image.php:22
+#: ../loop-image.php:24
+#: ../loop-quote.php:17
+#: ../loop-quote.php:19
+#: ../loop-status.php:21
+#: ../loop-status.php:23
+#: ../loop-video.php:16
+#: ../loop-video.php:18
+#: ../loop.php:54
+#: ../loop.php:56
+msgid "Continue Reading..."
+msgstr "Verder lezen..."
+
+#: ../loop-image.php:29
+#: ../loop-quote.php:39
+#: ../loop-video.php:23
+#: ../loop.php:61
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: ../loop-image.php:41
+#: ../loop-link.php:62
+#: ../loop-quote.php:52
+#: ../loop-status.php:34
+#: ../loop-video.php:35
+msgid " Posted by "
+msgstr "Geplaatst door"
+
+#: ../loop-image.php:42
+#: ../loop-link.php:63
+#: ../loop-quote.php:53
+#: ../loop-status.php:35
+#: ../loop-video.php:36
+msgid " on "
+msgstr "op"
+
+#: ../loop-image.php:44
+#: ../loop-link.php:65
+#: ../loop-quote.php:55
+#: ../loop-status.php:37
+#: ../loop-video.php:38
+#, php-format
+msgid "Posted on %1$s"
+msgstr "Geplaatst op %1$s"
+
+#: ../loop-image.php:47
+#: ../loop-image.php:52
+#: ../loop-link.php:68
+#: ../loop-link.php:73
+#: ../loop-quote.php:58
+#: ../loop-quote.php:63
+#: ../loop-status.php:40
+#: ../loop-status.php:45
+#: ../loop-video.php:41
+#: ../loop-video.php:46
+#: ../loop.php:72
+#: ../loop.php:77
+msgid ", "
+msgstr ", "
+
+#: ../loop-image.php:49
+#: ../loop-link.php:70
+#: ../loop-quote.php:60
+#: ../loop-status.php:42
+#: ../loop-video.php:43
+#: ../loop.php:74
+#, php-format
+msgid "In %1$s"
+msgstr "In %1$s"
+
+#: ../loop-image.php:54
+#: ../loop-link.php:75
+#: ../loop-quote.php:65
+#: ../loop-status.php:47
+#: ../loop-video.php:48
+#: ../loop.php:79
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../loop-image.php:62
+#: ../loop-link.php:83
+#: ../loop-quote.php:73
+#: ../loop-status.php:55
+#: ../loop-video.php:56
+#: ../loop.php:44
+#: ../loop.php:87
+msgid "Leave a comment"
+msgstr "Plaats een reactie"
+
+#: ../loop-image.php:62
+#: ../loop-link.php:83
+#: ../loop-quote.php:73
+#: ../loop-status.php:55
+#: ../loop-video.php:56
+#: ../loop.php:44
+#: ../loop.php:87
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: ../loop-image.php:62
+#: ../loop-link.php:83
+#: ../loop-quote.php:73
+#: ../loop-status.php:55
+#: ../loop-video.php:56
+#: ../loop.php:44
+#: ../loop.php:87
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: ../pagination.php:20
+msgid "<i class=\"icon-chevron-left\"></i>"
+msgstr "<i class=\"icon-chevron-left\"></i>"
+
+#: ../pagination.php:26
+msgid "<i class=\"icon-chevron-right\"></i>"
+msgstr "<i class=\"icon-chevron-right\"></i>"
+
+#: ../pagination.php:39
+msgid "<span class=\"nav-previous meta-nav\"><i class=\"icon-chevron-left\"></i> Older</span>"
+msgstr "<span class=\"nav-previous meta-nav\"><i class=\"icon-chevron-left\"></i> Ouder</span>"
+
+#: ../pagination.php:45
+msgid "<span class=\"nav-next meta-nav\">Newer <i class=\"icon-chevron-right\"></i></span>"
+msgstr "<span class=\"nav-next meta-nav\">Nieuwer <i class=\"icon-chevron-right\"></i></span>"
+
+#: ../search.php:29
+msgid "Search Results For \""
+msgstr "Zoekresultaten voor \""
+
+#: ../search.php:29
+msgid "\""
+msgstr "\""
+
+#: ../single.php:51
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../single.php:55
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../single.php:59
+msgid "Google+"
+msgstr "Google+"
+
+#: ../template-archives.php:37
+msgid "All Categories"
+msgstr "Alle Categorieën"
+
+#: ../template-archives.php:48
+msgid "You have no categories."
+msgstr "Je hebt geen categorieën."
+
+#: ../template-archives.php:51
+msgid "All Posts"
+msgstr "Alle berichten"
+
+#: ../template-archives.php:63
+msgid "You have no posts."
+msgstr "Je hebt geen berichten."
+
+#: ../template-sitemap.php:35
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../lib/activity/plugin.php:20
+msgid "standard-activity-tabs"
+msgstr "standard-activity-tabs"
+
+#: ../lib/activity/plugin.php:21
+msgid "Display your most recent posts, comments, popular posts, and tags."
+msgstr "De meest recente berichten, reacties, populaire berichten en tags weergeven."
+
+#: ../lib/activity/plugin.php:23
+msgid "Activity Tabs"
+msgstr "Activiteiten Tabs"
+
+#: ../lib/activity/plugin.php:170
+msgid "Recent"
+msgstr "Recent"
+
+#: ../lib/activity/plugin.php:174
+msgid "Popular"
+msgstr "Populair"
+
+#: ../lib/activity/plugin.php:178
+msgid "Comments"
+msgstr "Reacties"
+
+#: ../lib/activity/plugin.php:182
+msgid "Tags"
+msgstr "Tags"
+
+#: ../lib/activity/plugin.php:276
+msgid "You have no recent posts."
+msgstr "Je hebt geen recente berichten."
+
+#: ../lib/activity/plugin.php:340
+msgid " comments since "
+msgstr " reacties sinds "
+
+#: ../lib/activity/plugin.php:360
+msgid "You have no popular posts."
+msgstr "Je hebt geen populaire berichten."
+
+#: ../lib/activity/plugin.php:431
+msgid "You have no comments."
+msgstr "Je hebt geen reacties."
+
+#: ../lib/activity/plugin.php:467
+msgid "You have no tags."
+msgstr "Je hebt geen tags."
+
+#: ../lib/activity/views/admin.php:4
+#: ../lib/activity/views/admin.php:14
+#: ../lib/activity/views/admin.php:24
+#: ../lib/activity/views/admin.php:34
+msgid "Show"
+msgstr "Tonen"
+
+#: ../lib/activity/views/admin.php:10
+msgid "recent posts"
+msgstr "recente berichten"
+
+#: ../lib/activity/views/admin.php:20
+msgid "most commented posts."
+msgstr "berichten met de meeste reacties"
+
+#: ../lib/activity/views/admin.php:30
+msgid "recent comments"
+msgstr "recente reacties"
+
+#: ../lib/activity/views/admin.php:40
+msgid "most used tags"
+msgstr "meest gebruikte tags"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:49
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:51
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:53
+msgid "Archives"
+msgstr "Archief"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:49
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:51
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:53
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:58
+msgid " / "
+msgstr "/"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:58
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:83
+msgid "Home"
+msgstr "Home"
+
+#: ../lib/breadcrumbs/standard_breadcrumbs.php:265
+msgid "[ No search query. ]"
+msgstr "[ Geen zoek query. ]"
+
+#: ../lib/google-custom-search/plugin.php:18
+msgid "standard-google-custom-search"
+msgstr "standard-google-custom-search"
+
+#: ../lib/google-custom-search/plugin.php:19
+msgid "Easily add Google Custom Search to your Standard-powered blog."
+msgstr "Gemakkelijk Google Aangepast Zoeken aan jouw Standard-aangedreven blog toevoegen."
+
+#: ../lib/google-custom-search/plugin.php:21
+msgid "Google Custom Search"
+msgstr "Google Aangepast Zoeken"
+
+#: ../lib/google-custom-search/plugin.php:146
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#: ../lib/google-custom-search/plugin.php:197
+msgid "Could not configure Google Custom Search widget because the required \"search-results\" permalink is already in use. Please rename <a href=\"post.php?post="
+msgstr "Kon Google Aangepast Zoeken widget niet configureren omdat de vereiste \"search-results\" permalink al in gebruik is. Graag hernoem <a href=\"post.php?post="
+
+#: ../lib/google-custom-search/plugin.php:203
+msgid "This page was generated by Standard for use with the Google Custom Search widget. <a href=\"widgets.php\">Remove the widget</a> from all sidebar to delete this page."
+msgstr "Deze pagina is gegenereerd door Standard voor gebruik met de Google Aangepast Zoeken widget. <a href=\"widgets.php\">Verwijder de widget</a>  van de zijbalk om de pagina te verwijderen."
+
+#: ../lib/google-custom-search/views/admin.php:4
+msgid "Paste your Google Custom Search Engine code here. "
+msgstr "Plak hier jou Google Aangepast Zoeken code."
+
+#: ../lib/google-custom-search/views/admin.php:5
+msgid "<em><a href=\"http://docs.8bit.io/standard/widgets/google-custom-search-widget/\" target=\"_blank\">Learn More</a>.</em>"
+msgstr "<em><a href=\"http://docs.8bit.io/standard/widgets/google-custom-search-widget/\" target=\"_blank\">Leer Meer</a>.</em>"
+
+#: ../lib/influence/plugin.php:17
+msgid "standard-social-influence"
+msgstr "standard-social-influence"
+
+#: ../lib/influence/plugin.php:18
+msgid "Display your social influence by showcasing FeedBurner subscriptions, Twitter followers, and Facebook fans."
+msgstr "Jou sociale bereik tonen door weergeven van FeedBurner abonnees, Twitter volgers en Facebook fans."
+
+#: ../lib/influence/plugin.php:20
+msgid "Social Influence"
+msgstr "Sociale Bereik"
+
+#: ../lib/influence/views/admin.php:6
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: ../lib/influence/views/admin.php:7
+msgid "Username (without '@')"
+msgstr "Gebruikersnaam (zonder '@')"
+
+#: ../lib/influence/views/admin.php:11
+msgid "Facebook Fan Page:"
+msgstr "Facebook Fanpagina"
+
+#: ../lib/influence/views/admin.php:12
+msgid "Username only"
+msgstr "Alleen gebruikersnaam"
+
+#: ../lib/influence/views/admin.php:16
+msgid "FeedBurner:"
+msgstr "Feedburner"
+
+#: ../lib/influence/views/admin.php:17
+msgid "Feed name only"
+msgstr "Alleen feed naam"
+
+#: ../lib/influence/views/admin.php:21
+msgid "Display"
+msgstr "Weergeven"
+
+#: ../lib/influence/views/admin.php:23
+msgid "Individual count"
+msgstr "Individuele telling"
+
+#: ../lib/influence/views/admin.php:24
+msgid "Total influence"
+msgstr "Totaal bereik"
+
+#: ../lib/influence/views/admin.php:25
+msgid "Both"
+msgstr "Beide"
+
+#: ../lib/influence/views/admin.php:50
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: ../lib/influence/views/admin.php:62
+msgid "Unfortunately, your web host does not support features that this widget requires."
+msgstr "Helaas, jou web host ondersteund de features niet die nodig zijn voor deze widget."
+
+#: ../lib/influence/views/admin.php:63
+msgid "<a href=\"TODO\">Learn more</a> about this error."
+msgstr "<a href=\"TODO\">Leer meer</a> over deze error."
+
+#: ../lib/personal-image/plugin.php:17
+msgid "personal-image"
+msgstr "personal-image"
+
+#: ../lib/personal-image/plugin.php:18
+msgid "Display a personal image and an optional description."
+msgstr "Een persoonlijke afbeelding en eventuele beschrijving weergeven."
+
+#: ../lib/personal-image/plugin.php:20
+msgid "Personal Image"
+msgstr "Persoonlijke Afbeelding"
+
+#: ../lib/personal-image/views/admin.php:5
+msgid "Personal Image:"
+msgstr "Persoonlijke Afbeelding:"
+
+#: ../lib/personal-image/views/admin.php:11
+msgid "Maximum width is 300 pixels."
+msgstr "Maximale breedte is 300 pixels."
+
+#: ../lib/personal-image/views/admin.php:12
+msgid "Delete Image"
+msgstr "Verwijder Afbeelding"
+
+#: ../lib/personal-image/views/admin.php:24
+msgid "Bio (Optional):"
+msgstr "Bio (Optioneel)"
+
+#: ../lib/personal-image/views/admin.php:26
+msgid "400"
+msgstr "400"
+
+#: ../lib/personal-image/views/admin.php:26
+msgid " characters remaining"
+msgstr "karakters resterend"
+
+#: ../lib/seo/plugin.php:40
+#: ../lib/seo/plugin.php:49
+msgid "Standard SEO"
+msgstr "Standard SEO"
+
+#: ../lib/seo/plugin.php:67
+msgid "Search Results Preview "
+msgstr "Preview Zoekresultaten"
+
+#: ../lib/seo/plugin.php:70
+msgid " - "
+msgstr " - "
+
+#: ../lib/seo/plugin.php:82
+msgid "Meta Description "
+msgstr "Meta Beschrijving"
+
+#: ../lib/seo/plugin.php:82
+msgid "140"
+msgstr "140"
+
+#: ../lib/seo/plugin.php:82
+msgid " characters remaining)"
+msgstr "karakters resterend)"
+
+#: ../lib/seo/plugin.php:89
+msgid "Writing a meta description for every post is strongly recommended for SEO. If not provided, no description will be published."
+msgstr "Een meta beschrijving schrijven voor elk bericht wordt sterk aanbevolen voor SEO. Als deze niet wordt opgegeven, zal geen beschrijving worden weergegeven."
+
+#: ../lib/seotitles/standard_seotitles.php:45
+msgid "Search Results For"
+msgstr "Zoekresultaten voor"
+
+#: ../lib/seotitles/standard_seotitles.php:45
+msgid "Results"
+msgstr "Resultaten"
+
+#: ../lib/seotitles/standard_seotitles.php:48
+msgid "404 Nothing Found"
+msgstr "404 Niet Gevonden"
+
+#: ../lib/seotitles/standard_seotitles.php:50
+msgid "Author Archives"
+msgstr "Auteur Archief"
+
+#: ../lib/seotitles/standard_seotitles.php:64
+#: ../lib/seotitles/standard_seotitles.php:70
+#: ../lib/seotitles/standard_seotitles.php:73
+msgid "Archive"
+msgstr "Archief"
+
+#: ../lib/seotitles/standard_seotitles.php:75
+msgid "Tag Archive"
+msgstr "Tag Archief"
+
+#: ../lib/standard-ad-125x125/plugin.php:17
+msgid "standard-ad-125x125"
+msgstr "standard-ad-125x125"
+
+#: ../lib/standard-ad-125x125/plugin.php:18
+msgid "Display a 125x125 advertisement."
+msgstr "Een 125x125 advertentie weergeven."
+
+#: ../lib/standard-ad-125x125/plugin.php:20
+msgid "125x125 Ad"
+msgstr "125x125 Ad"
+
+#: ../lib/standard-ad-300x250/plugin.php:17
+msgid "standard-ad-300x250"
+msgstr "standard-ad-300x250"
+
+#: ../lib/standard-ad-300x250/plugin.php:18
+msgid "Display a 300x250 advertisement."
+msgstr "Een 300x250 advertentie weergeven."
+
+#: ../lib/standard-ad-300x250/plugin.php:20
+msgid "300x250 Ad"
+msgstr "300x250 Ad"
+
+#: ../lib/standard-ad-300x250/views/admin.php:13
+#: ../lib/standard-ad-billboard/views/admin.php:13
+msgid "Delete Advertisement"
+msgstr "Advertentie verwijderen"
+
+#: ../lib/standard-ad-billboard/plugin.php:17
+msgid "standard-ad-billboard"
+msgstr "standard-ad-billboard"
+
+#: ../lib/standard-ad-billboard/plugin.php:18
+msgid "Display a 468x60 advertisement."
+msgstr "Een 268x60 advertentie weergeven."
+
+#: ../lib/standard-ad-billboard/plugin.php:20
+msgid "468x60 Ad"
+msgstr "468x60 Ad"
+
+#~ msgid ""
+#~ "This section controls social network icons in the site header. Drag, "
+#~ "drop, and position desired icons from the Icon Library to the Active "
+#~ "Icons area."
+#~ msgstr ""
+#~ "Deze sectie bepaalt de pictogrammen van sociale netwerken in de site "
+#~ "hoofd. Versleep, plaats, en positioneer gewenste pictogrammen van de "
+#~ "Pictogrammen Bibliotheek naar het Actieve Pictogrammen gebied."
+
+#~ msgid "ad-468x60"
+#~ msgstr "ad-468x60"
